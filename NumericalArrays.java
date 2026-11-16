@@ -1,0 +1,192 @@
+public class NumericalArrays {
+  /*
+   * Returns the smallest value in the array of doubles it gets as argument.
+   */
+  public static double min(double[] numarray) {
+    double min = Double.MAX_VALUE;
+    
+    // Compare every value in numarray to max, if the value is smaller
+    // than min, replace min!
+    
+    return min;
+  }
+
+  /*
+   * Returns the largest value in in the array of doubles it gets as argument.
+   */
+  public static double max(double[] numarray) {
+    double max = Double.MIN_VALUE;
+    
+    // Compare every value in numarray to max, if the value is greater
+    // than max, replace max!
+
+    return max;
+  }
+
+  /*
+   * Returns the smallest value in in the array of ints it gets as argument.
+   */
+  public static int min(int[] numarray) {
+    int min = Integer.MAX_VALUE;
+    
+    // Compare every value in numarray to max, if the value is smaller
+    // than min, replace min!
+
+    return min;
+  }
+
+  /*
+   * Returns the largest value in in the array of ints it gets as argument.
+   */
+  public static int max(int[] numarray) {
+    int max = Integer.MIN_VALUE;
+    
+    // Compare every value in numarray to max, if the value is greater
+    // than max, replace max!
+
+    return max;
+  }
+
+  /*
+   * Returns the addition of all the values in he array of doubles it gets
+   * as argument.
+   */
+  public static double sum(double[] numarray) {
+    double sum = 0;
+    
+    // Go through every element in the array and add it to sum
+
+    return sum;
+  }
+
+  /*
+   * Returns the addition of all the values in the array of ints it gets
+   * as argument.
+   */
+  public static int sum(int[] numarray) {
+    int sum = 0;
+    
+    // Go through every element in the array and add it to sum
+    
+    return sum;
+  }
+
+  /*
+   * Returns the median of all the values in the array of ints it gets
+   * as argument.
+   */
+  public static double median(double[] numarray) {
+    double median = 0;
+    double swap = 0;
+    
+    // Your code here
+
+    return median;
+  }
+
+  /*
+   * Returns the mode of the values in the array of ints it gets as
+   * argument.
+   */
+  public static int mode(int[] numarray) {
+    int mode = 0;
+    
+    // Your code here
+
+    return mode;
+  }
+
+  /*
+   * Returns the average of the values in the array of doubles it gets as
+   * argument.
+   */
+  public static double average(double[] numarray) {
+    
+    // Hint: use the sum() method and the size of the array
+    // and return the sum of the values of numarray divided
+    // by numarray.length
+
+    return -0.0;
+  }
+
+  /*
+   * Returns the number of equal elements of the values in the array of ints it
+   * gets as
+   * argument.
+   */
+  public static int numEqualElements(int[] numarray) {
+    int same = 0;
+    
+    // Your code here
+    
+    return same;
+  }
+
+  /*
+   * Returns the standard deviation of the values in the array of doubles
+   * it gets as argument.
+   */
+  public static double standardDeviation(double[] numarray) {
+    double avrg = average(numarray);
+    double variance = 0;
+    
+    // Your code here
+
+    return Math.sqrt(variance);
+  }
+
+  /*
+   * Returns the dot product between two arrays of doubles of the same length.
+   * The arguments are two arrays of doubles, a and b, that have the same
+   * number of elements.
+   * The result is the dot product: a0*b0 + a1*b1 + ... + an*bn
+   */
+  public static double dotproduct(double[] a, double[] b) {
+    double sum = 0;
+    for (int i = 0; i < a.length; i++) {
+      sum = sum + a[i] * b[i];
+    }
+    return sum;
+  }
+
+  /*
+   * Plots the elements of the array as points using the course books StdDraw.
+   * For each element in the array we draw a point with the position in the array
+   * as x-value and the value in that position as y-value.
+   * The scale is set to: on the x-dimension [-1, length] and on the
+   * y-dimension [minimum in array - 0.1, maximum in array + 0.1].
+   * The pen colour and the pen radius are set by the program that uses this
+   * method,
+   * they should not be set in the method.
+   */
+  public static void plot(double[] numarray) {
+    double min = min(numarray);
+    double max = max(numarray);
+    StdDraw.setXscale(-1, numarray.length);
+    StdDraw.setYscale(min - 0.1, max + 0.1);
+    for (int i = 0; i < numarray.length; i++) {
+      StdDraw.point(i, numarray[i]);
+    }
+  }
+
+  /*
+   * Plots the elements of the array as points using the course books StdDraw.
+   * For each element in the array we draw a point with the position in the array
+   * as x-value and the value in that position as y-value.
+   * The scale is set to: on the x-dimension [-1, length] and on the
+   * y-dimension [minimum in array - 1, maximum in array + 1].
+   * The pen colour and the pen radius are set by the program that uses this
+   * method,
+   * they should not be set in the method.
+   */
+  public static void plot(int[] numarray) {
+    int min = min(numarray);
+    int max = max(numarray);
+    StdDraw.setXscale(-1, numarray.length);
+    StdDraw.setYscale(min - 1, max + 1);
+    for (int i = 0; i < numarray.length; i++) {
+      StdDraw.point(i, numarray[i]);
+    }
+  }
+
+}
