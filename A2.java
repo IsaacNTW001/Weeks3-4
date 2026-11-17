@@ -18,7 +18,7 @@ public class A2 {
 		String currLine = data.nextLine();
 		// Analize: what does this line do?
 		int cutPosition = currLine.indexOf(" ", currLine.indexOf(" ") + 1) + 1;
-
+		
 		// TASK:
 		// Go line by line and fill up the two arrays
 			// For each iteration, put the data in the correct index for BOTH arrays

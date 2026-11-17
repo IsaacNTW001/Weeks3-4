@@ -6,15 +6,14 @@ public class NumericalArrays {
   public static double min(double[] numarray) {
     double min = Double.MAX_VALUE;
 
-    for(int i=0; i<numarray.length ;i++){
-      double temp = 0 ;
+    double temp = 0;
 
-      temp = numarray[i];
+    for(int i=0; i<numarray.length-1;i++){
+      temp=numarray[i];
       if(temp<min){
-        System.out.println(temp);
         min=temp;
-        System.out.println(min);
-      }  
+      }
+
     }
     
     // Compare every value in numarray to max, if the value is smaller
@@ -31,14 +30,17 @@ public class NumericalArrays {
   public static double max(double[] numarray) {
     double max = Double.MIN_VALUE;
     double temp = 0;
-    for(int i=0; i<numarray.length;i++){
 
+
+    for(int i=0; i<numarray.length-1;i++){
       temp = numarray[i];
+
       if(temp>max){
-        max= temp;
+        max = temp;
       }
     }
-    
+
+
     // Compare every value in numarray to max, if the value is greater
     // than max, replace max!
 
@@ -50,6 +52,15 @@ public class NumericalArrays {
    */
   public static int min(int[] numarray) {
     int min = Integer.MAX_VALUE;
+    int temp = 0;
+
+    for(int i=0; i<numarray.length-1; i++){
+      temp = numarray[i];
+
+      if(temp<min){
+        min = temp;
+      }
+    }
     
     // Compare every value in numarray to max, if the value is smaller
     // than min, replace min!
@@ -62,6 +73,16 @@ public class NumericalArrays {
    */
   public static int max(int[] numarray) {
     int max = Integer.MIN_VALUE;
+    int temp = 0;
+
+    for(int i=0; i<numarray.length-1;i++){
+      temp = numarray[i];
+      if(temp>max){
+        max = temp;
+      }
+
+    }
+
     
     // Compare every value in numarray to max, if the value is greater
     // than max, replace max!
@@ -76,6 +97,9 @@ public class NumericalArrays {
   public static double sum(double[] numarray) {
     double sum = 0;
     
+    for(int i = 0; i<numarray.length-1;i++){
+      sum += numarray[i];
+    }
     // Go through every element in the array and add it to sum
 
     return sum;
@@ -87,6 +111,10 @@ public class NumericalArrays {
    */
   public static int sum(int[] numarray) {
     int sum = 0;
+
+    for (int i = 0; i<numarray.length-1;i++){
+      sum += numarray[i];
+    }
     
     // Go through every element in the array and add it to sum
     
