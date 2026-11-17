@@ -1,9 +1,11 @@
+//Tenta problem/uppgift.
 public class NumericalArrays {
   /*
    * Returns the smallest value in the array of doubles it gets as argument.
    */
   public static double min(double[] numarray) {
     double min = Double.MAX_VALUE;
+
     double temp = 0;
 
     for(int i=0; i<numarray.length-1;i++){
@@ -11,6 +13,7 @@ public class NumericalArrays {
       if(temp<min){
         min=temp;
       }
+
     }
     
     // Compare every value in numarray to max, if the value is smaller
@@ -19,12 +22,15 @@ public class NumericalArrays {
     return min;
   }
 
+
+
   /*
    * Returns the largest value in in the array of doubles it gets as argument.
    */
   public static double max(double[] numarray) {
     double max = Double.MIN_VALUE;
     double temp = 0;
+
 
     for(int i=0; i<numarray.length-1;i++){
       temp = numarray[i];
