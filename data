@@ -1,1003 +1,1000 @@
-Number of data points: 1000
-
-Year, Month, Day; Telephone number; salary
-1973 6 11 Telephone Number: 0743396255 Salary: 34594 kr.
-1997 7 15 Telephone Number: 0783030579 Salary: 59491 kr.
-1985 5 25 Telephone Number: 0766798055 Salary: 32812 kr.
-2002 5 16 Telephone Number: 0752825337 Salary: 40213 kr.
-1974 12 14 Telephone Number: 0712409968 Salary: 27630 kr.
-2001 4 1 Telephone Number: 0778444700 Salary: 29611 kr.
-1964 6 11 Telephone Number: 0798255846 Salary: 43673 kr.
-1964 10 28 Telephone Number: 0767465162 Salary: 60506 kr.
-2011 7 11 Telephone Number: 0755453775 Salary: 26834 kr.
-2010 6 3 Telephone Number: 0711972144 Salary: 51494 kr.
-2022 5 11 Telephone Number: 0736605926 Salary: 40707 kr.
-1972 5 17 Telephone Number: 0796842661 Salary: 64983 kr.
-1978 11 12 Telephone Number: 0724402130 Salary: 64860 kr.
-1995 6 9 Telephone Number: 074509405 Salary: 55748 kr.
-1966 12 3 Telephone Number: 0753158497 Salary: 31456 kr.
-1980 1 21 Telephone Number: 0745398881 Salary: 31832 kr.
-1972 7 2 Telephone Number: 075906056 Salary: 25922 kr.
-1961 9 18 Telephone Number: 0734710072 Salary: 64510 kr.
-1996 3 25 Telephone Number: 0761043040 Salary: 35206 kr.
-1995 8 18 Telephone Number: 0788251175 Salary: 41671 kr.
-1991 2 28 Telephone Number: 0782440940 Salary: 50110 kr.
-1981 9 14 Telephone Number: 077934517 Salary: 66266 kr.
-1991 9 13 Telephone Number: 075033862 Salary: 33317 kr.
-1984 4 30 Telephone Number: 071809825 Salary: 46728 kr.
-2018 11 26 Telephone Number: 071920737 Salary: 47776 kr.
-2001 4 15 Telephone Number: 0735072886 Salary: 59716 kr.
-2006 10 6 Telephone Number: 0799280716 Salary: 29010 kr.
-1991 6 26 Telephone Number: 0733511397 Salary: 27946 kr.
-2010 1 9 Telephone Number: 0760166240 Salary: 56944 kr.
-1982 2 2 Telephone Number: 0775846473 Salary: 29978 kr.
-1979 3 21 Telephone Number: 0798531017 Salary: 47771 kr.
-1985 12 29 Telephone Number: 0778213449 Salary: 50576 kr.
-2018 7 14 Telephone Number: 0729519106 Salary: 58843 kr.
-1983 2 8 Telephone Number: 0724727767 Salary: 39042 kr.
-2018 12 27 Telephone Number: 0762746641 Salary: 54325 kr.
-1967 8 29 Telephone Number: 0760142755 Salary: 32849 kr.
-1996 1 6 Telephone Number: 0711522108 Salary: 54443 kr.
-1978 12 20 Telephone Number: 0781779559 Salary: 33078 kr.
-1994 12 6 Telephone Number: 0714959629 Salary: 26121 kr.
-1974 5 16 Telephone Number: 0741261910 Salary: 49700 kr.
-2018 4 23 Telephone Number: 0751840117 Salary: 47285 kr.
-2003 4 15 Telephone Number: 0755498692 Salary: 56584 kr.
-1976 4 10 Telephone Number: 0797777610 Salary: 27402 kr.
-2021 2 17 Telephone Number: 0789516894 Salary: 55387 kr.
-1970 7 13 Telephone Number: 0731475097 Salary: 35994 kr.
-2020 8 3 Telephone Number: 0790160189 Salary: 53889 kr.
-1965 8 6 Telephone Number: 075141071 Salary: 56233 kr.
-1971 7 19 Telephone Number: 0743650731 Salary: 36072 kr.
-2023 10 13 Telephone Number: 0739832403 Salary: 61602 kr.
-2023 11 12 Telephone Number: 0796192622 Salary: 30742 kr.
-1990 2 2 Telephone Number: 072751067 Salary: 58284 kr.
-2014 2 5 Telephone Number: 075116060 Salary: 47048 kr.
-1998 12 28 Telephone Number: 0742324535 Salary: 26230 kr.
-1976 4 10 Telephone Number: 0788775794 Salary: 56992 kr.
-1994 11 17 Telephone Number: 0753027382 Salary: 52786 kr.
-2004 9 8 Telephone Number: 0772092181 Salary: 48388 kr.
-1998 12 22 Telephone Number: 0777952383 Salary: 40670 kr.
-1970 10 22 Telephone Number: 077136882 Salary: 48479 kr.
-2006 2 26 Telephone Number: 0728523490 Salary: 27838 kr.
-1992 9 23 Telephone Number: 075709669 Salary: 41206 kr.
-2022 12 16 Telephone Number: 0760682981 Salary: 41228 kr.
-1969 3 26 Telephone Number: 0794931457 Salary: 37273 kr.
-1976 5 30 Telephone Number: 0731416152 Salary: 36143 kr.
-1989 7 16 Telephone Number: 0784308368 Salary: 43601 kr.
-1983 7 21 Telephone Number: 0712446599 Salary: 48432 kr.
-2011 8 4 Telephone Number: 0770630829 Salary: 59351 kr.
-1987 5 7 Telephone Number: 0736003819 Salary: 52336 kr.
-2017 12 11 Telephone Number: 0757902262 Salary: 46622 kr.
-2005 5 14 Telephone Number: 0725204973 Salary: 46330 kr.
-1999 11 31 Telephone Number: 075997419 Salary: 64655 kr.
-2011 11 22 Telephone Number: 0736089488 Salary: 42294 kr.
-1993 10 14 Telephone Number: 0761997286 Salary: 42249 kr.
-1966 6 19 Telephone Number: 0734796397 Salary: 60745 kr.
-2013 7 14 Telephone Number: 0760514969 Salary: 40193 kr.
-1962 1 8 Telephone Number: 079689994 Salary: 63175 kr.
-1977 12 1 Telephone Number: 0787505899 Salary: 50488 kr.
-2009 10 24 Telephone Number: 0790142187 Salary: 48185 kr.
-2020 1 9 Telephone Number: 0790050571 Salary: 62534 kr.
-1972 5 31 Telephone Number: 079705178 Salary: 28538 kr.
-1991 5 2 Telephone Number: 0731724841 Salary: 37146 kr.
-1969 12 13 Telephone Number: 0717903118 Salary: 61106 kr.
-2005 12 5 Telephone Number: 0759060631 Salary: 40612 kr.
-1977 3 20 Telephone Number: 0750996768 Salary: 60497 kr.
-1979 3 7 Telephone Number: 0774190126 Salary: 35735 kr.
-1970 7 1 Telephone Number: 0714803150 Salary: 57901 kr.
-1978 8 28 Telephone Number: 0737313084 Salary: 47179 kr.
-1976 5 27 Telephone Number: 0791768175 Salary: 26821 kr.
-2008 10 26 Telephone Number: 0730696067 Salary: 26289 kr.
-2013 11 14 Telephone Number: 0747591845 Salary: 64241 kr.
-1971 5 19 Telephone Number: 0754383299 Salary: 62690 kr.
-1977 7 22 Telephone Number: 07202904 Salary: 26796 kr.
-2019 9 31 Telephone Number: 0738862682 Salary: 50540 kr.
-2006 2 11 Telephone Number: 073995605 Salary: 41404 kr.
-2022 3 18 Telephone Number: 0718091259 Salary: 48633 kr.
-2017 11 21 Telephone Number: 0756010538 Salary: 27924 kr.
-1988 4 25 Telephone Number: 0719358588 Salary: 49035 kr.
-1988 1 1 Telephone Number: 0717011930 Salary: 65822 kr.
-1985 5 12 Telephone Number: 0776582788 Salary: 66521 kr.
-2012 6 26 Telephone Number: 0760845869 Salary: 54786 kr.
-1966 7 10 Telephone Number: 0738234031 Salary: 50277 kr.
-2019 7 26 Telephone Number: 0779529681 Salary: 65361 kr.
-2012 1 4 Telephone Number: 0717917763 Salary: 50873 kr.
-1988 9 4 Telephone Number: 0721507916 Salary: 32910 kr.
-2002 4 14 Telephone Number: 0767791496 Salary: 32914 kr.
-1998 5 22 Telephone Number: 0776512324 Salary: 49768 kr.
-2003 3 24 Telephone Number: 0755813317 Salary: 34490 kr.
-1999 8 26 Telephone Number: 0725392181 Salary: 65102 kr.
-1962 6 28 Telephone Number: 076018856 Salary: 62317 kr.
-2012 5 4 Telephone Number: 0787859962 Salary: 37309 kr.
-2014 2 8 Telephone Number: 0745600354 Salary: 53246 kr.
-1977 2 28 Telephone Number: 0748860774 Salary: 62512 kr.
-2004 9 26 Telephone Number: 0767832760 Salary: 47621 kr.
-1978 2 22 Telephone Number: 0756569930 Salary: 30890 kr.
-1987 3 17 Telephone Number: 0710486658 Salary: 37442 kr.
-1961 4 29 Telephone Number: 0726011503 Salary: 57610 kr.
-2005 9 20 Telephone Number: 075227639 Salary: 45441 kr.
-1966 5 2 Telephone Number: 0773944612 Salary: 47806 kr.
-1964 11 10 Telephone Number: 0734880225 Salary: 37461 kr.
-1964 4 30 Telephone Number: 0757768404 Salary: 48396 kr.
-2020 2 1 Telephone Number: 0747898251 Salary: 56060 kr.
-1974 8 29 Telephone Number: 076349028 Salary: 38858 kr.
-1964 4 15 Telephone Number: 0798811458 Salary: 51125 kr.
-2021 4 22 Telephone Number: 0759282618 Salary: 46401 kr.
-1981 4 17 Telephone Number: 0781001468 Salary: 55770 kr.
-1970 2 23 Telephone Number: 0776399665 Salary: 36775 kr.
-1961 7 14 Telephone Number: 0785403095 Salary: 44648 kr.
-2010 6 29 Telephone Number: 0727323894 Salary: 32454 kr.
-1976 12 7 Telephone Number: 0792445597 Salary: 66487 kr.
-1990 1 21 Telephone Number: 0715469946 Salary: 41738 kr.
-2004 9 26 Telephone Number: 0791871882 Salary: 60557 kr.
-2005 6 1 Telephone Number: 0758659432 Salary: 27760 kr.
-1974 2 1 Telephone Number: 0728443169 Salary: 29461 kr.
-2020 3 13 Telephone Number: 0724026588 Salary: 58354 kr.
-1980 7 29 Telephone Number: 0713706161 Salary: 44259 kr.
-2023 3 20 Telephone Number: 0765358182 Salary: 44579 kr.
-1971 7 17 Telephone Number: 0793035883 Salary: 42111 kr.
-1967 1 29 Telephone Number: 0711565073 Salary: 63570 kr.
-2015 1 10 Telephone Number: 0751448664 Salary: 57213 kr.
-1967 5 5 Telephone Number: 0713525097 Salary: 53653 kr.
-2005 1 7 Telephone Number: 0714897893 Salary: 60598 kr.
-1965 8 3 Telephone Number: 0738791288 Salary: 50893 kr.
-1989 8 7 Telephone Number: 079924052 Salary: 65820 kr.
-1974 11 1 Telephone Number: 0758161289 Salary: 64580 kr.
-1967 1 27 Telephone Number: 0782946425 Salary: 41705 kr.
-2003 9 21 Telephone Number: 0751200368 Salary: 63745 kr.
-1966 9 11 Telephone Number: 0720785739 Salary: 36173 kr.
-1967 7 15 Telephone Number: 0758662392 Salary: 42550 kr.
-1975 12 9 Telephone Number: 0721136313 Salary: 54004 kr.
-1992 3 12 Telephone Number: 0775332634 Salary: 37953 kr.
-2009 5 1 Telephone Number: 0720916902 Salary: 49830 kr.
-2000 10 10 Telephone Number: 0736908885 Salary: 33163 kr.
-1992 7 14 Telephone Number: 0732287652 Salary: 50101 kr.
-1991 1 21 Telephone Number: 0746740445 Salary: 58157 kr.
-2005 7 18 Telephone Number: 0761505531 Salary: 28623 kr.
-1998 4 16 Telephone Number: 0782968504 Salary: 35615 kr.
-1970 12 5 Telephone Number: 0790893520 Salary: 61915 kr.
-1979 4 19 Telephone Number: 0752078666 Salary: 56420 kr.
-2016 7 22 Telephone Number: 075523666 Salary: 32280 kr.
-2003 12 14 Telephone Number: 0722122300 Salary: 51158 kr.
-2002 3 4 Telephone Number: 075577291 Salary: 33606 kr.
-1976 1 14 Telephone Number: 0796735416 Salary: 29374 kr.
-2008 1 9 Telephone Number: 0794876078 Salary: 51367 kr.
-1978 11 10 Telephone Number: 0731242301 Salary: 58580 kr.
-1981 2 28 Telephone Number: 073216759 Salary: 40735 kr.
-2019 1 15 Telephone Number: 0754048579 Salary: 61104 kr.
-1987 10 10 Telephone Number: 0732643797 Salary: 57616 kr.
-2024 9 23 Telephone Number: 0732490108 Salary: 55431 kr.
-1995 3 19 Telephone Number: 078724949 Salary: 27704 kr.
-1992 6 15 Telephone Number: 0712407568 Salary: 44307 kr.
-2018 7 20 Telephone Number: 0730633064 Salary: 29229 kr.
-2022 11 13 Telephone Number: 0797872248 Salary: 30850 kr.
-2008 4 18 Telephone Number: 077075126 Salary: 29323 kr.
-2008 4 25 Telephone Number: 0712418633 Salary: 65422 kr.
-2008 6 29 Telephone Number: 0717850431 Salary: 45128 kr.
-2012 11 3 Telephone Number: 0769379399 Salary: 33129 kr.
-2022 6 11 Telephone Number: 0777380202 Salary: 33606 kr.
-1991 12 24 Telephone Number: 0757816018 Salary: 65133 kr.
-1966 8 9 Telephone Number: 0791559911 Salary: 43490 kr.
-1978 1 8 Telephone Number: 0736253095 Salary: 50627 kr.
-1963 11 27 Telephone Number: 0782684356 Salary: 38524 kr.
-1994 7 24 Telephone Number: 0790930092 Salary: 50048 kr.
-2005 8 6 Telephone Number: 0719238182 Salary: 49037 kr.
-1961 8 16 Telephone Number: 0713364894 Salary: 42200 kr.
-1999 12 8 Telephone Number: 0783597366 Salary: 43501 kr.
-1963 4 22 Telephone Number: 0746277498 Salary: 56441 kr.
-1968 5 24 Telephone Number: 0767029076 Salary: 39775 kr.
-2013 12 12 Telephone Number: 0732759414 Salary: 42126 kr.
-1971 6 3 Telephone Number: 0718999827 Salary: 58895 kr.
-1999 6 3 Telephone Number: 0734217355 Salary: 42617 kr.
-1964 9 6 Telephone Number: 0738208686 Salary: 50828 kr.
-1977 7 9 Telephone Number: 0794103985 Salary: 54372 kr.
-1981 3 3 Telephone Number: 0762770009 Salary: 32558 kr.
-1986 7 20 Telephone Number: 0760621322 Salary: 58850 kr.
-2019 5 11 Telephone Number: 0753707612 Salary: 66006 kr.
-1982 12 22 Telephone Number: 0719104193 Salary: 57163 kr.
-2013 9 2 Telephone Number: 0721830889 Salary: 29834 kr.
-1985 11 20 Telephone Number: 0758134345 Salary: 43879 kr.
-1961 5 18 Telephone Number: 0795897003 Salary: 31560 kr.
-1989 2 20 Telephone Number: 0719885860 Salary: 56998 kr.
-1974 12 18 Telephone Number: 0787788390 Salary: 53046 kr.
-1995 2 8 Telephone Number: 0789856755 Salary: 32589 kr.
-2020 11 27 Telephone Number: 0766630210 Salary: 30335 kr.
-1988 4 12 Telephone Number: 0721910526 Salary: 32683 kr.
-1990 5 13 Telephone Number: 0792029678 Salary: 33575 kr.
-2024 10 12 Telephone Number: 0787157333 Salary: 59889 kr.
-2001 2 16 Telephone Number: 0780942037 Salary: 57201 kr.
-1989 11 15 Telephone Number: 0778182821 Salary: 40456 kr.
-1996 8 17 Telephone Number: 0742372906 Salary: 43135 kr.
-1969 2 22 Telephone Number: 0799830824 Salary: 63763 kr.
-1961 10 29 Telephone Number: 0728842746 Salary: 29193 kr.
-2009 11 28 Telephone Number: 0773324584 Salary: 30009 kr.
-1963 12 28 Telephone Number: 0738207493 Salary: 44750 kr.
-2005 12 22 Telephone Number: 0768942308 Salary: 59107 kr.
-1983 7 2 Telephone Number: 0789304046 Salary: 38249 kr.
-1975 6 6 Telephone Number: 0743531933 Salary: 41023 kr.
-2005 7 9 Telephone Number: 0770536703 Salary: 39204 kr.
-1968 1 9 Telephone Number: 0780454756 Salary: 60320 kr.
-1998 10 15 Telephone Number: 0772819567 Salary: 50857 kr.
-2011 1 19 Telephone Number: 0731497964 Salary: 64888 kr.
-1986 3 22 Telephone Number: 0713431903 Salary: 52477 kr.
-2009 6 18 Telephone Number: 0721114990 Salary: 52522 kr.
-1973 10 23 Telephone Number: 071832414 Salary: 65145 kr.
-1978 2 9 Telephone Number: 0754075096 Salary: 50405 kr.
-1985 9 31 Telephone Number: 074130555 Salary: 55761 kr.
-2016 6 28 Telephone Number: 0737077135 Salary: 42925 kr.
-2016 2 19 Telephone Number: 0711857526 Salary: 43175 kr.
-2003 12 17 Telephone Number: 0784767538 Salary: 41611 kr.
-1982 1 20 Telephone Number: 0790357681 Salary: 29183 kr.
-2003 11 2 Telephone Number: 0790371659 Salary: 54159 kr.
-2007 10 26 Telephone Number: 0770286792 Salary: 58282 kr.
-1979 6 12 Telephone Number: 0743085723 Salary: 64340 kr.
-1973 5 22 Telephone Number: 0795423135 Salary: 55280 kr.
-1968 7 7 Telephone Number: 0718581900 Salary: 55252 kr.
-2013 3 28 Telephone Number: 0764649986 Salary: 32329 kr.
-1995 2 4 Telephone Number: 0738360971 Salary: 27768 kr.
-2018 11 6 Telephone Number: 0714244720 Salary: 50607 kr.
-2024 9 26 Telephone Number: 0728968895 Salary: 58595 kr.
-1970 1 4 Telephone Number: 077514728 Salary: 64580 kr.
-1990 9 3 Telephone Number: 0736810090 Salary: 60961 kr.
-2017 9 9 Telephone Number: 076669838 Salary: 30563 kr.
-1965 9 20 Telephone Number: 0799789353 Salary: 40429 kr.
-2020 6 2 Telephone Number: 0741243881 Salary: 30819 kr.
-2006 1 23 Telephone Number: 077455945 Salary: 50446 kr.
-2018 8 11 Telephone Number: 0798316004 Salary: 61721 kr.
-1977 2 18 Telephone Number: 0718680334 Salary: 59320 kr.
-1994 6 23 Telephone Number: 072488915 Salary: 41947 kr.
-2017 9 23 Telephone Number: 0754951515 Salary: 37836 kr.
-2021 8 7 Telephone Number: 0733623218 Salary: 27434 kr.
-2015 7 9 Telephone Number: 0760738246 Salary: 40614 kr.
-2006 2 6 Telephone Number: 0723582930 Salary: 57015 kr.
-1971 12 10 Telephone Number: 0765421317 Salary: 39910 kr.
-1971 12 14 Telephone Number: 0750908829 Salary: 64481 kr.
-2002 11 23 Telephone Number: 0797298628 Salary: 60094 kr.
-1967 9 2 Telephone Number: 075907187 Salary: 33108 kr.
-2006 3 13 Telephone Number: 0775125492 Salary: 41859 kr.
-2017 2 12 Telephone Number: 0764938233 Salary: 27868 kr.
-2007 2 19 Telephone Number: 0730427090 Salary: 61948 kr.
-2017 8 3 Telephone Number: 0798840180 Salary: 65965 kr.
-1991 3 19 Telephone Number: 0721068265 Salary: 65062 kr.
-2020 7 8 Telephone Number: 0748872329 Salary: 37656 kr.
-1984 10 27 Telephone Number: 0767760673 Salary: 41622 kr.
-1965 10 9 Telephone Number: 0757058382 Salary: 41594 kr.
-1979 11 10 Telephone Number: 0747613885 Salary: 54430 kr.
-2001 6 29 Telephone Number: 074425372 Salary: 33877 kr.
-1996 3 7 Telephone Number: 0787592851 Salary: 64382 kr.
-1995 10 25 Telephone Number: 0728742993 Salary: 52314 kr.
-1970 8 20 Telephone Number: 0723739564 Salary: 31259 kr.
-1961 6 27 Telephone Number: 0796664493 Salary: 57166 kr.
-2020 2 27 Telephone Number: 0794974251 Salary: 61200 kr.
-2016 5 16 Telephone Number: 0747657203 Salary: 39902 kr.
-1986 3 4 Telephone Number: 0771746329 Salary: 55591 kr.
-1980 9 11 Telephone Number: 078104814 Salary: 46730 kr.
-1995 7 31 Telephone Number: 0736105089 Salary: 54090 kr.
-2003 4 24 Telephone Number: 0763093546 Salary: 63515 kr.
-2019 11 31 Telephone Number: 0720065135 Salary: 30243 kr.
-1983 8 29 Telephone Number: 0735601750 Salary: 29653 kr.
-2019 5 22 Telephone Number: 0720424231 Salary: 58164 kr.
-2006 2 12 Telephone Number: 0743351191 Salary: 58085 kr.
-1970 11 18 Telephone Number: 0770236948 Salary: 27037 kr.
-1973 4 17 Telephone Number: 0713014732 Salary: 56357 kr.
-2016 9 12 Telephone Number: 0797553714 Salary: 61488 kr.
-2019 11 26 Telephone Number: 0730688064 Salary: 35699 kr.
-1985 11 14 Telephone Number: 0711211967 Salary: 41282 kr.
-1995 5 27 Telephone Number: 0792714269 Salary: 61223 kr.
-2003 1 9 Telephone Number: 0749636412 Salary: 55274 kr.
-1986 5 25 Telephone Number: 078602950 Salary: 65320 kr.
-1981 11 17 Telephone Number: 0722804519 Salary: 33194 kr.
-2007 7 14 Telephone Number: 0759726880 Salary: 42995 kr.
-1974 4 12 Telephone Number: 0788608485 Salary: 44072 kr.
-1979 9 14 Telephone Number: 0765837813 Salary: 30861 kr.
-1983 10 27 Telephone Number: 0784456563 Salary: 29795 kr.
-1988 10 4 Telephone Number: 0783660117 Salary: 33594 kr.
-1978 7 10 Telephone Number: 0792577179 Salary: 62385 kr.
-1972 10 28 Telephone Number: 075650733 Salary: 64194 kr.
-1967 8 27 Telephone Number: 0745404217 Salary: 37781 kr.
-2012 2 25 Telephone Number: 0735522573 Salary: 44429 kr.
-1973 11 8 Telephone Number: 0775728339 Salary: 50580 kr.
-2003 5 18 Telephone Number: 0753695068 Salary: 29259 kr.
-1988 3 31 Telephone Number: 0717908004 Salary: 65010 kr.
-1979 8 30 Telephone Number: 079151348 Salary: 45067 kr.
-1993 5 31 Telephone Number: 0762067066 Salary: 65031 kr.
-1982 11 22 Telephone Number: 0763250533 Salary: 48738 kr.
-2007 6 28 Telephone Number: 0726399048 Salary: 66524 kr.
-1999 10 18 Telephone Number: 0790182201 Salary: 65398 kr.
-2014 4 22 Telephone Number: 0724798706 Salary: 50206 kr.
-1997 10 24 Telephone Number: 072587103 Salary: 40162 kr.
-2007 9 24 Telephone Number: 0782209778 Salary: 47480 kr.
-2010 12 7 Telephone Number: 079345201 Salary: 63074 kr.
-2010 8 21 Telephone Number: 0760286351 Salary: 39769 kr.
-2012 9 5 Telephone Number: 0735902778 Salary: 61491 kr.
-1963 7 17 Telephone Number: 0755999108 Salary: 65970 kr.
-2024 7 8 Telephone Number: 071341380 Salary: 26006 kr.
-2020 2 5 Telephone Number: 0788274935 Salary: 29861 kr.
-1970 2 14 Telephone Number: 0776561381 Salary: 33346 kr.
-1971 12 22 Telephone Number: 0788048513 Salary: 41472 kr.
-2012 11 9 Telephone Number: 0765653518 Salary: 56223 kr.
-1973 8 29 Telephone Number: 078450839 Salary: 30411 kr.
-1971 10 25 Telephone Number: 0799266786 Salary: 62096 kr.
-1992 10 12 Telephone Number: 0710296788 Salary: 48548 kr.
-2016 3 20 Telephone Number: 0791366896 Salary: 38203 kr.
-1964 10 17 Telephone Number: 0797409949 Salary: 29709 kr.
-1986 9 7 Telephone Number: 0746345040 Salary: 64979 kr.
-1975 2 4 Telephone Number: 0753297686 Salary: 44564 kr.
-1970 3 11 Telephone Number: 0764423467 Salary: 39062 kr.
-1985 8 6 Telephone Number: 0799735907 Salary: 42495 kr.
-1994 5 7 Telephone Number: 0752466080 Salary: 27201 kr.
-2005 2 3 Telephone Number: 0776226052 Salary: 58323 kr.
-1978 5 21 Telephone Number: 0722705536 Salary: 38700 kr.
-1978 10 19 Telephone Number: 0752144241 Salary: 43487 kr.
-1979 1 25 Telephone Number: 0741921830 Salary: 38805 kr.
-1981 10 17 Telephone Number: 0788624487 Salary: 45986 kr.
-1982 9 11 Telephone Number: 0761942769 Salary: 47017 kr.
-1993 12 30 Telephone Number: 0780526995 Salary: 56628 kr.
-1969 7 6 Telephone Number: 0722987697 Salary: 55690 kr.
-2005 10 29 Telephone Number: 0728773916 Salary: 35124 kr.
-1972 5 24 Telephone Number: 0723658940 Salary: 30863 kr.
-2007 7 26 Telephone Number: 0726236352 Salary: 48319 kr.
-1980 6 24 Telephone Number: 0714929571 Salary: 29742 kr.
-1975 10 18 Telephone Number: 0725387950 Salary: 46495 kr.
-2017 10 16 Telephone Number: 0715222483 Salary: 28217 kr.
-1997 2 3 Telephone Number: 0790074618 Salary: 61531 kr.
-1963 2 24 Telephone Number: 0794878619 Salary: 58520 kr.
-2013 3 19 Telephone Number: 0796772236 Salary: 33941 kr.
-2014 7 29 Telephone Number: 0721537629 Salary: 66445 kr.
-1962 12 17 Telephone Number: 0730211967 Salary: 29039 kr.
-2021 9 21 Telephone Number: 0744081338 Salary: 57317 kr.
-1974 9 13 Telephone Number: 0734656448 Salary: 50855 kr.
-1984 9 7 Telephone Number: 0768010512 Salary: 59148 kr.
-1984 1 28 Telephone Number: 0713632051 Salary: 58934 kr.
-2021 2 26 Telephone Number: 075942452 Salary: 57661 kr.
-1972 1 28 Telephone Number: 0778597968 Salary: 36804 kr.
-1997 6 4 Telephone Number: 0785147279 Salary: 51231 kr.
-1961 8 17 Telephone Number: 0799709720 Salary: 36238 kr.
-1980 6 27 Telephone Number: 0741813415 Salary: 51573 kr.
-2005 11 1 Telephone Number: 0711172716 Salary: 54214 kr.
-2012 5 31 Telephone Number: 076488956 Salary: 30367 kr.
-1978 6 22 Telephone Number: 0729153795 Salary: 43664 kr.
-2018 7 20 Telephone Number: 0784639457 Salary: 37930 kr.
-2011 10 3 Telephone Number: 0794109973 Salary: 39543 kr.
-1990 9 10 Telephone Number: 073560406 Salary: 42912 kr.
-1963 8 14 Telephone Number: 071801869 Salary: 40551 kr.
-1966 1 4 Telephone Number: 0745363198 Salary: 26329 kr.
-1995 2 23 Telephone Number: 0721094494 Salary: 53921 kr.
-2021 10 17 Telephone Number: 0724108413 Salary: 49695 kr.
-2003 12 21 Telephone Number: 0752632985 Salary: 54546 kr.
-2018 7 19 Telephone Number: 0722393108 Salary: 27728 kr.
-1997 7 11 Telephone Number: 0784150535 Salary: 40122 kr.
-2001 8 2 Telephone Number: 0753126586 Salary: 38801 kr.
-1968 11 19 Telephone Number: 0776867932 Salary: 52885 kr.
-1964 12 4 Telephone Number: 07480157 Salary: 33961 kr.
-2004 4 23 Telephone Number: 0737338942 Salary: 46597 kr.
-2016 12 18 Telephone Number: 0760012388 Salary: 32650 kr.
-1965 1 17 Telephone Number: 0712155811 Salary: 32978 kr.
-1974 7 25 Telephone Number: 072006228 Salary: 28956 kr.
-2006 11 21 Telephone Number: 0793939699 Salary: 57455 kr.
-2014 5 11 Telephone Number: 0729674317 Salary: 65194 kr.
-1994 7 12 Telephone Number: 0758599446 Salary: 47617 kr.
-1988 12 14 Telephone Number: 0770972961 Salary: 60083 kr.
-1978 9 26 Telephone Number: 0711358932 Salary: 62505 kr.
-2019 7 17 Telephone Number: 07504880 Salary: 35017 kr.
-1967 5 22 Telephone Number: 075751113 Salary: 56289 kr.
-1961 11 12 Telephone Number: 0727889899 Salary: 41625 kr.
-1977 5 14 Telephone Number: 071690555 Salary: 32904 kr.
-1971 8 4 Telephone Number: 0747857644 Salary: 37477 kr.
-1999 4 26 Telephone Number: 0739713938 Salary: 55965 kr.
-1984 1 30 Telephone Number: 0732295937 Salary: 26775 kr.
-1997 9 11 Telephone Number: 0755179357 Salary: 53518 kr.
-1997 5 20 Telephone Number: 0758014354 Salary: 63813 kr.
-1999 7 22 Telephone Number: 0723113278 Salary: 47263 kr.
-2014 8 15 Telephone Number: 0728808237 Salary: 28924 kr.
-2016 7 11 Telephone Number: 0778773589 Salary: 50851 kr.
-1967 9 5 Telephone Number: 0734600717 Salary: 59295 kr.
-1967 3 19 Telephone Number: 0775956258 Salary: 28051 kr.
-2000 5 14 Telephone Number: 0732377941 Salary: 42251 kr.
-2002 7 30 Telephone Number: 0732521564 Salary: 35233 kr.
-1973 11 19 Telephone Number: 0767007136 Salary: 40072 kr.
-2017 3 20 Telephone Number: 0736276543 Salary: 39411 kr.
-2002 5 24 Telephone Number: 0728842148 Salary: 47779 kr.
-2021 3 10 Telephone Number: 0792758241 Salary: 54064 kr.
-1990 6 15 Telephone Number: 0768593334 Salary: 35387 kr.
-2023 10 29 Telephone Number: 0745965391 Salary: 56360 kr.
-2021 2 2 Telephone Number: 0727896791 Salary: 61127 kr.
-1974 12 20 Telephone Number: 0782844058 Salary: 33048 kr.
-2000 4 25 Telephone Number: 0761303418 Salary: 64170 kr.
-2015 10 15 Telephone Number: 0789318837 Salary: 37881 kr.
-2023 7 20 Telephone Number: 077275215 Salary: 42168 kr.
-2018 7 30 Telephone Number: 0789659790 Salary: 43739 kr.
-1993 8 28 Telephone Number: 0742790675 Salary: 65889 kr.
-2002 6 15 Telephone Number: 079584871 Salary: 46624 kr.
-2022 8 29 Telephone Number: 0729202379 Salary: 56655 kr.
-1980 8 10 Telephone Number: 0727127581 Salary: 48226 kr.
-2003 5 13 Telephone Number: 0722248963 Salary: 37647 kr.
-1983 4 22 Telephone Number: 0742173296 Salary: 43106 kr.
-2017 6 10 Telephone Number: 0793104821 Salary: 36696 kr.
-2025 7 26 Telephone Number: 0716719657 Salary: 42421 kr.
-2015 9 24 Telephone Number: 0751870272 Salary: 66226 kr.
-1974 10 20 Telephone Number: 0732194915 Salary: 64329 kr.
-1997 11 26 Telephone Number: 0712091597 Salary: 53593 kr.
-2010 2 15 Telephone Number: 0729232712 Salary: 65278 kr.
-2002 6 5 Telephone Number: 0712195658 Salary: 42724 kr.
-1961 6 12 Telephone Number: 0748625565 Salary: 35558 kr.
-1966 12 4 Telephone Number: 0764881656 Salary: 43228 kr.
-1968 1 2 Telephone Number: 0772047312 Salary: 51220 kr.
-1990 4 23 Telephone Number: 0731599413 Salary: 59876 kr.
-2025 8 23 Telephone Number: 0767644432 Salary: 53364 kr.
-2018 4 18 Telephone Number: 0779638188 Salary: 36596 kr.
-1988 9 2 Telephone Number: 0711658085 Salary: 50184 kr.
-1968 8 15 Telephone Number: 0732744025 Salary: 61990 kr.
-1995 3 18 Telephone Number: 0773575020 Salary: 58216 kr.
-1993 10 26 Telephone Number: 0751580698 Salary: 28575 kr.
-1990 1 6 Telephone Number: 0792451868 Salary: 38005 kr.
-1964 4 25 Telephone Number: 072066053 Salary: 59641 kr.
-1989 9 31 Telephone Number: 0717360985 Salary: 52532 kr.
-1995 1 18 Telephone Number: 0782280658 Salary: 46266 kr.
-2007 3 14 Telephone Number: 0749527393 Salary: 63279 kr.
-1976 6 14 Telephone Number: 0772200821 Salary: 49942 kr.
-1969 9 3 Telephone Number: 0779638023 Salary: 51624 kr.
-1999 5 23 Telephone Number: 0755206824 Salary: 55510 kr.
-2007 9 4 Telephone Number: 0715791496 Salary: 44484 kr.
-2012 7 25 Telephone Number: 0791726370 Salary: 62211 kr.
-1977 11 29 Telephone Number: 078216869 Salary: 36920 kr.
-2007 6 10 Telephone Number: 0729371360 Salary: 47272 kr.
-1966 2 16 Telephone Number: 0791633245 Salary: 46839 kr.
-1962 6 1 Telephone Number: 0731704849 Salary: 66359 kr.
-1999 8 13 Telephone Number: 0738171354 Salary: 49631 kr.
-2021 1 25 Telephone Number: 0740838170 Salary: 63647 kr.
-2016 8 5 Telephone Number: 0779168776 Salary: 59375 kr.
-2012 10 24 Telephone Number: 0744222127 Salary: 35140 kr.
-1987 10 17 Telephone Number: 0756729430 Salary: 38362 kr.
-1985 5 17 Telephone Number: 0750389905 Salary: 65166 kr.
-1978 10 10 Telephone Number: 0782366055 Salary: 46677 kr.
-2014 3 21 Telephone Number: 0744474114 Salary: 27700 kr.
-1972 5 20 Telephone Number: 0744793920 Salary: 42199 kr.
-1992 4 9 Telephone Number: 0764810348 Salary: 37923 kr.
-2021 2 13 Telephone Number: 0739300149 Salary: 53064 kr.
-1979 4 24 Telephone Number: 0734920890 Salary: 31530 kr.
-1969 1 17 Telephone Number: 0712173703 Salary: 61490 kr.
-1978 10 13 Telephone Number: 0789023974 Salary: 32802 kr.
-1995 11 12 Telephone Number: 0783356064 Salary: 38291 kr.
-1975 5 13 Telephone Number: 0727627424 Salary: 36984 kr.
-1971 10 28 Telephone Number: 0744484896 Salary: 51877 kr.
-1991 12 23 Telephone Number: 0736744666 Salary: 51735 kr.
-2004 7 13 Telephone Number: 0726387532 Salary: 46444 kr.
-1963 4 23 Telephone Number: 0749132309 Salary: 45044 kr.
-1981 10 30 Telephone Number: 0796185572 Salary: 60101 kr.
-2021 6 7 Telephone Number: 0738320724 Salary: 27497 kr.
-1967 10 26 Telephone Number: 0718656608 Salary: 55372 kr.
-2021 2 16 Telephone Number: 0731033605 Salary: 48878 kr.
-1966 6 10 Telephone Number: 0796336397 Salary: 37811 kr.
-2022 5 20 Telephone Number: 0736123463 Salary: 50982 kr.
-1972 4 7 Telephone Number: 0767820283 Salary: 55854 kr.
-1988 8 24 Telephone Number: 0798953531 Salary: 48048 kr.
-2013 1 5 Telephone Number: 0781433498 Salary: 43833 kr.
-2011 8 16 Telephone Number: 0750111838 Salary: 32335 kr.
-2014 11 25 Telephone Number: 0792296786 Salary: 57721 kr.
-1987 6 26 Telephone Number: 0772641407 Salary: 55924 kr.
-2003 9 5 Telephone Number: 0733038813 Salary: 30400 kr.
-1997 8 14 Telephone Number: 0729115694 Salary: 34533 kr.
-1996 1 3 Telephone Number: 0743035596 Salary: 53298 kr.
-2001 4 1 Telephone Number: 0780696893 Salary: 50978 kr.
-1986 6 16 Telephone Number: 0776936992 Salary: 26393 kr.
-2011 2 24 Telephone Number: 0776915415 Salary: 46248 kr.
-1992 3 1 Telephone Number: 0752031631 Salary: 51874 kr.
-1988 2 20 Telephone Number: 0774743258 Salary: 65127 kr.
-1968 8 30 Telephone Number: 0795176946 Salary: 48963 kr.
-2021 11 23 Telephone Number: 0756355874 Salary: 25897 kr.
-1981 10 22 Telephone Number: 0755865478 Salary: 50364 kr.
-1988 11 11 Telephone Number: 0799853014 Salary: 31262 kr.
-2014 11 8 Telephone Number: 0712609938 Salary: 28819 kr.
-1997 12 21 Telephone Number: 0729517763 Salary: 65776 kr.
-1979 6 29 Telephone Number: 0798117915 Salary: 44985 kr.
-2000 9 30 Telephone Number: 0740625978 Salary: 46359 kr.
-1984 11 21 Telephone Number: 0745415060 Salary: 62033 kr.
-1997 11 27 Telephone Number: 0787379524 Salary: 61112 kr.
-1975 6 27 Telephone Number: 0735698417 Salary: 55526 kr.
-2002 3 2 Telephone Number: 0715542412 Salary: 41385 kr.
-2007 6 15 Telephone Number: 0740606897 Salary: 33518 kr.
-2013 2 15 Telephone Number: 0758438269 Salary: 45650 kr.
-2005 1 13 Telephone Number: 0760943716 Salary: 37776 kr.
-2021 3 12 Telephone Number: 0736061587 Salary: 44284 kr.
-1974 9 14 Telephone Number: 0792648957 Salary: 55136 kr.
-1998 5 23 Telephone Number: 0762418234 Salary: 59121 kr.
-2000 1 14 Telephone Number: 073783883 Salary: 33745 kr.
-1992 9 29 Telephone Number: 0781408775 Salary: 36915 kr.
-1996 5 1 Telephone Number: 0796050510 Salary: 41067 kr.
-1972 7 25 Telephone Number: 0792480442 Salary: 37590 kr.
-1979 6 24 Telephone Number: 0796339866 Salary: 26588 kr.
-1985 4 3 Telephone Number: 0765091309 Salary: 40764 kr.
-2003 6 5 Telephone Number: 0781203243 Salary: 35168 kr.
-1980 1 14 Telephone Number: 0767257470 Salary: 66151 kr.
-1977 7 8 Telephone Number: 0766007747 Salary: 48554 kr.
-2023 6 21 Telephone Number: 0784907006 Salary: 41587 kr.
-2018 4 6 Telephone Number: 0784718138 Salary: 64009 kr.
-1989 4 18 Telephone Number: 0792572267 Salary: 60965 kr.
-2012 12 15 Telephone Number: 0772401420 Salary: 35853 kr.
-1988 10 25 Telephone Number: 0754555941 Salary: 25951 kr.
-2009 8 10 Telephone Number: 0725151866 Salary: 56740 kr.
-2007 10 3 Telephone Number: 0711860256 Salary: 63879 kr.
-2019 8 5 Telephone Number: 0718466825 Salary: 39053 kr.
-1986 2 16 Telephone Number: 0711939164 Salary: 46765 kr.
-2002 3 23 Telephone Number: 0790265842 Salary: 66147 kr.
-1975 8 23 Telephone Number: 074098985 Salary: 48213 kr.
-2019 1 15 Telephone Number: 0746647241 Salary: 48527 kr.
-1968 2 24 Telephone Number: 0786825654 Salary: 49516 kr.
-2017 4 15 Telephone Number: 0792840085 Salary: 38101 kr.
-1974 5 31 Telephone Number: 078459835 Salary: 58383 kr.
-1978 1 23 Telephone Number: 0777170559 Salary: 47478 kr.
-1999 10 8 Telephone Number: 0788791431 Salary: 36874 kr.
-2023 6 18 Telephone Number: 0718567854 Salary: 30061 kr.
-2010 2 10 Telephone Number: 0715931423 Salary: 54144 kr.
-2015 12 24 Telephone Number: 0757345863 Salary: 40286 kr.
-2015 4 27 Telephone Number: 0745182411 Salary: 33741 kr.
-1968 4 21 Telephone Number: 0771685964 Salary: 46496 kr.
-1970 7 15 Telephone Number: 0769824458 Salary: 29166 kr.
-2000 4 10 Telephone Number: 0768198064 Salary: 42283 kr.
-1973 5 1 Telephone Number: 0778325246 Salary: 50626 kr.
-1964 11 14 Telephone Number: 0721749640 Salary: 58838 kr.
-1993 3 7 Telephone Number: 0759353035 Salary: 26564 kr.
-2022 3 19 Telephone Number: 0777835726 Salary: 46532 kr.
-2022 8 9 Telephone Number: 0761308073 Salary: 42400 kr.
-1981 3 18 Telephone Number: 0768339544 Salary: 62085 kr.
-1982 11 9 Telephone Number: 0773397433 Salary: 65766 kr.
-1973 5 1 Telephone Number: 0739638608 Salary: 49906 kr.
-1981 8 3 Telephone Number: 0732375684 Salary: 34129 kr.
-1969 2 9 Telephone Number: 0769492708 Salary: 59267 kr.
-1983 8 9 Telephone Number: 075088715 Salary: 44810 kr.
-1983 6 26 Telephone Number: 077667929 Salary: 37524 kr.
-2020 11 10 Telephone Number: 0779331362 Salary: 28676 kr.
-2013 11 18 Telephone Number: 0724277801 Salary: 43773 kr.
-1966 12 2 Telephone Number: 0762015509 Salary: 45717 kr.
-2017 4 6 Telephone Number: 0781643653 Salary: 47641 kr.
-1986 1 6 Telephone Number: 0727310256 Salary: 31204 kr.
-1966 5 5 Telephone Number: 0760189253 Salary: 39961 kr.
-1965 9 2 Telephone Number: 0741638562 Salary: 57144 kr.
-2012 3 5 Telephone Number: 0799399614 Salary: 43165 kr.
-2013 10 14 Telephone Number: 0775886774 Salary: 63526 kr.
-2025 1 3 Telephone Number: 0751913521 Salary: 64569 kr.
-2013 1 16 Telephone Number: 0776908784 Salary: 62885 kr.
-1962 7 27 Telephone Number: 0765918615 Salary: 64301 kr.
-1962 11 17 Telephone Number: 0734701241 Salary: 36494 kr.
-2011 3 21 Telephone Number: 0789524788 Salary: 59173 kr.
-1965 9 19 Telephone Number: 0743119689 Salary: 44106 kr.
-1963 7 14 Telephone Number: 0744866110 Salary: 36264 kr.
-1969 8 26 Telephone Number: 07638590 Salary: 47247 kr.
-1985 8 30 Telephone Number: 0721296223 Salary: 48352 kr.
-1973 8 12 Telephone Number: 0743685223 Salary: 37454 kr.
-1984 7 7 Telephone Number: 0740982430 Salary: 43584 kr.
-1963 2 18 Telephone Number: 074064644 Salary: 36209 kr.
-2022 1 26 Telephone Number: 0719066883 Salary: 56274 kr.
-1994 2 9 Telephone Number: 0759819232 Salary: 28249 kr.
-1996 6 25 Telephone Number: 0769759960 Salary: 36311 kr.
-1972 9 11 Telephone Number: 0726723088 Salary: 49158 kr.
-1989 3 8 Telephone Number: 0752483230 Salary: 44123 kr.
-1977 2 9 Telephone Number: 0757002903 Salary: 65064 kr.
-1986 2 16 Telephone Number: 0744523068 Salary: 60331 kr.
-1978 12 22 Telephone Number: 0759618953 Salary: 33563 kr.
-1973 7 19 Telephone Number: 0712438119 Salary: 57143 kr.
-1995 8 2 Telephone Number: 0789661648 Salary: 57885 kr.
-1972 7 5 Telephone Number: 0710344966 Salary: 45070 kr.
-2008 6 3 Telephone Number: 0725562102 Salary: 52638 kr.
-2012 10 26 Telephone Number: 0793659050 Salary: 57145 kr.
-1963 4 22 Telephone Number: 0734633165 Salary: 38901 kr.
-1991 4 6 Telephone Number: 0719177139 Salary: 55100 kr.
-1993 11 24 Telephone Number: 0738016780 Salary: 30263 kr.
-1986 2 17 Telephone Number: 0731651401 Salary: 64942 kr.
-1965 7 31 Telephone Number: 0713793444 Salary: 56756 kr.
-1972 12 9 Telephone Number: 0771133353 Salary: 50545 kr.
-2010 6 5 Telephone Number: 075501051 Salary: 65954 kr.
-1976 9 23 Telephone Number: 0790081164 Salary: 65559 kr.
-2003 3 27 Telephone Number: 0736617718 Salary: 40713 kr.
-2013 4 13 Telephone Number: 0743061656 Salary: 25718 kr.
-2009 11 22 Telephone Number: 0719002535 Salary: 27614 kr.
-2005 11 5 Telephone Number: 0711185772 Salary: 65043 kr.
-1994 6 9 Telephone Number: 074488485 Salary: 56743 kr.
-2021 9 16 Telephone Number: 0787354210 Salary: 59113 kr.
-2025 10 24 Telephone Number: 0778724529 Salary: 52604 kr.
-2011 8 11 Telephone Number: 0773930355 Salary: 41347 kr.
-2023 9 25 Telephone Number: 0770222894 Salary: 55075 kr.
-1962 7 27 Telephone Number: 0711386174 Salary: 25756 kr.
-1962 1 4 Telephone Number: 0725949255 Salary: 39079 kr.
-2016 5 10 Telephone Number: 0752380788 Salary: 50060 kr.
-1969 5 7 Telephone Number: 0738576952 Salary: 29038 kr.
-2013 12 2 Telephone Number: 0741041310 Salary: 43878 kr.
-1965 7 17 Telephone Number: 0745902640 Salary: 47115 kr.
-2007 2 5 Telephone Number: 0730143706 Salary: 50750 kr.
-1965 10 9 Telephone Number: 0726394127 Salary: 31381 kr.
-2008 6 29 Telephone Number: 0730473322 Salary: 27093 kr.
-2012 12 9 Telephone Number: 0798227692 Salary: 34377 kr.
-1991 8 18 Telephone Number: 075727657 Salary: 63246 kr.
-1965 5 18 Telephone Number: 0774601134 Salary: 56406 kr.
-1988 5 13 Telephone Number: 074568426 Salary: 35546 kr.
-1987 2 3 Telephone Number: 0713021152 Salary: 53515 kr.
-1986 8 18 Telephone Number: 0718308385 Salary: 27526 kr.
-1985 6 7 Telephone Number: 0718413814 Salary: 57347 kr.
-1990 2 3 Telephone Number: 0710515950 Salary: 41989 kr.
-1964 4 28 Telephone Number: 0762360825 Salary: 32441 kr.
-2001 9 15 Telephone Number: 0733635211 Salary: 63750 kr.
-1988 10 9 Telephone Number: 0776901142 Salary: 41445 kr.
-1962 4 24 Telephone Number: 0710460308 Salary: 59376 kr.
-2020 9 14 Telephone Number: 0779848611 Salary: 30939 kr.
-1974 5 4 Telephone Number: 0755694346 Salary: 52622 kr.
-2025 11 8 Telephone Number: 0718465661 Salary: 49054 kr.
-1969 10 26 Telephone Number: 0768398945 Salary: 49358 kr.
-2014 1 15 Telephone Number: 0753916874 Salary: 37836 kr.
-2007 9 26 Telephone Number: 0771248876 Salary: 42442 kr.
-1996 5 22 Telephone Number: 0794833660 Salary: 41963 kr.
-2012 5 29 Telephone Number: 0771307395 Salary: 42001 kr.
-1981 8 10 Telephone Number: 0764493560 Salary: 35055 kr.
-2011 2 4 Telephone Number: 0791504091 Salary: 57167 kr.
-2001 9 12 Telephone Number: 0712808662 Salary: 53779 kr.
-1990 3 13 Telephone Number: 0776913888 Salary: 59155 kr.
-1978 12 5 Telephone Number: 0767093980 Salary: 58453 kr.
-2001 8 16 Telephone Number: 0727900721 Salary: 48329 kr.
-2003 11 31 Telephone Number: 0730326924 Salary: 38908 kr.
-1988 9 21 Telephone Number: 0798612430 Salary: 27171 kr.
-2002 3 6 Telephone Number: 0753504959 Salary: 61297 kr.
-2004 12 15 Telephone Number: 0727417549 Salary: 48861 kr.
-1986 4 1 Telephone Number: 0721263797 Salary: 58157 kr.
-1970 10 23 Telephone Number: 0721694645 Salary: 44051 kr.
-2020 3 10 Telephone Number: 0733949649 Salary: 42568 kr.
-1997 8 30 Telephone Number: 0796768754 Salary: 41777 kr.
-1985 8 17 Telephone Number: 0751974950 Salary: 43445 kr.
-2023 12 25 Telephone Number: 0794397070 Salary: 65725 kr.
-1979 4 18 Telephone Number: 0791968938 Salary: 48086 kr.
-1962 3 6 Telephone Number: 0764510307 Salary: 45150 kr.
-1963 11 19 Telephone Number: 0751716625 Salary: 49426 kr.
-1962 5 16 Telephone Number: 0752202039 Salary: 51836 kr.
-1987 5 23 Telephone Number: 0760228115 Salary: 34592 kr.
-1966 11 12 Telephone Number: 0765323568 Salary: 34035 kr.
-2018 2 5 Telephone Number: 0738874246 Salary: 66124 kr.
-1967 2 26 Telephone Number: 0714396643 Salary: 57336 kr.
-1988 9 14 Telephone Number: 0753055032 Salary: 57510 kr.
-2008 2 14 Telephone Number: 0781623213 Salary: 54791 kr.
-1989 12 15 Telephone Number: 0785338861 Salary: 62785 kr.
-1964 10 22 Telephone Number: 0738085716 Salary: 43209 kr.
-1974 3 10 Telephone Number: 0769738708 Salary: 39111 kr.
-1978 8 29 Telephone Number: 0744140460 Salary: 39800 kr.
-2005 6 25 Telephone Number: 0762406046 Salary: 55250 kr.
-1981 11 27 Telephone Number: 0726671153 Salary: 36835 kr.
-2024 3 28 Telephone Number: 0751464973 Salary: 46169 kr.
-1974 10 20 Telephone Number: 0775261536 Salary: 49663 kr.
-2007 2 9 Telephone Number: 0713232066 Salary: 40124 kr.
-1972 1 18 Telephone Number: 0767251325 Salary: 34891 kr.
-2015 4 7 Telephone Number: 0734238371 Salary: 36024 kr.
-2019 6 16 Telephone Number: 0756655157 Salary: 35817 kr.
-1975 4 3 Telephone Number: 0739167239 Salary: 44854 kr.
-1983 4 17 Telephone Number: 0714460687 Salary: 55151 kr.
-1977 4 3 Telephone Number: 0790237232 Salary: 43136 kr.
-1962 1 27 Telephone Number: 0716101791 Salary: 42954 kr.
-2023 9 23 Telephone Number: 0770196593 Salary: 32661 kr.
-1980 1 21 Telephone Number: 0746961173 Salary: 31239 kr.
-1997 4 23 Telephone Number: 0790771481 Salary: 25877 kr.
-1977 2 3 Telephone Number: 0757441272 Salary: 46731 kr.
-2008 8 8 Telephone Number: 0713253104 Salary: 65926 kr.
-1973 6 12 Telephone Number: 0797113311 Salary: 45203 kr.
-2020 11 4 Telephone Number: 0755360374 Salary: 45247 kr.
-2002 6 21 Telephone Number: 072184357 Salary: 31068 kr.
-1996 6 1 Telephone Number: 0736328892 Salary: 60236 kr.
-2016 6 30 Telephone Number: 0794296411 Salary: 57770 kr.
-2016 4 19 Telephone Number: 0773420043 Salary: 35723 kr.
-2018 6 4 Telephone Number: 0771587609 Salary: 38709 kr.
-1984 11 7 Telephone Number: 0751094975 Salary: 40794 kr.
-1986 2 9 Telephone Number: 0767913614 Salary: 32240 kr.
-1963 3 29 Telephone Number: 0797648374 Salary: 57172 kr.
-1974 11 29 Telephone Number: 0713870003 Salary: 58881 kr.
-1996 9 12 Telephone Number: 072150312 Salary: 57307 kr.
-2022 1 14 Telephone Number: 0727308951 Salary: 46298 kr.
-2016 1 1 Telephone Number: 0711417406 Salary: 26089 kr.
-1982 6 2 Telephone Number: 0772753455 Salary: 49544 kr.
-1971 8 5 Telephone Number: 0757055967 Salary: 54784 kr.
-1984 7 10 Telephone Number: 0772640011 Salary: 33482 kr.
-1989 10 18 Telephone Number: 0766331045 Salary: 57984 kr.
-1972 12 8 Telephone Number: 07638472 Salary: 63202 kr.
-2011 1 16 Telephone Number: 0717970528 Salary: 58883 kr.
-2001 1 29 Telephone Number: 0793191190 Salary: 28580 kr.
-2011 8 20 Telephone Number: 0770578663 Salary: 59870 kr.
-2007 8 30 Telephone Number: 0742479965 Salary: 51248 kr.
-1990 5 3 Telephone Number: 0742987872 Salary: 56575 kr.
-1977 4 17 Telephone Number: 0777678925 Salary: 27087 kr.
-1977 2 17 Telephone Number: 0783812649 Salary: 55164 kr.
-1966 5 25 Telephone Number: 0754807201 Salary: 61551 kr.
-1985 2 1 Telephone Number: 0773188709 Salary: 51950 kr.
-1973 4 18 Telephone Number: 0794791690 Salary: 39670 kr.
-2009 9 31 Telephone Number: 0740000785 Salary: 38264 kr.
-2013 7 21 Telephone Number: 0778335777 Salary: 35363 kr.
-1962 9 13 Telephone Number: 079952374 Salary: 57878 kr.
-1967 1 18 Telephone Number: 071523986 Salary: 52741 kr.
-2012 5 11 Telephone Number: 0776051863 Salary: 28273 kr.
-2015 11 30 Telephone Number: 0752248370 Salary: 33624 kr.
-2021 1 30 Telephone Number: 0776235546 Salary: 35137 kr.
-1992 1 22 Telephone Number: 071804913 Salary: 44399 kr.
-2011 11 10 Telephone Number: 0790985686 Salary: 41034 kr.
-2012 4 4 Telephone Number: 0743474996 Salary: 42474 kr.
-2009 1 5 Telephone Number: 0725309696 Salary: 27339 kr.
-2005 1 18 Telephone Number: 078488353 Salary: 65440 kr.
-2018 7 5 Telephone Number: 0798016214 Salary: 25726 kr.
-1983 3 2 Telephone Number: 0765182337 Salary: 42046 kr.
-2006 11 29 Telephone Number: 0730859285 Salary: 60639 kr.
-1978 6 11 Telephone Number: 0757963178 Salary: 46646 kr.
-2021 1 26 Telephone Number: 0760139297 Salary: 63725 kr.
-2016 10 24 Telephone Number: 0775185637 Salary: 31680 kr.
-2011 8 21 Telephone Number: 073377787 Salary: 36814 kr.
-1983 10 29 Telephone Number: 0788458314 Salary: 35248 kr.
-1988 1 5 Telephone Number: 0718664080 Salary: 32391 kr.
-1983 8 9 Telephone Number: 0777125620 Salary: 42294 kr.
-1981 9 1 Telephone Number: 0729458879 Salary: 42695 kr.
-1997 5 23 Telephone Number: 0720558919 Salary: 59351 kr.
-1991 3 21 Telephone Number: 0733599799 Salary: 45638 kr.
-2001 2 18 Telephone Number: 0795006671 Salary: 28988 kr.
-1995 6 27 Telephone Number: 0722865215 Salary: 39411 kr.
-1979 3 26 Telephone Number: 0771516256 Salary: 58086 kr.
-2012 7 24 Telephone Number: 0754907423 Salary: 55966 kr.
-2000 5 11 Telephone Number: 0755071566 Salary: 30887 kr.
-1967 2 22 Telephone Number: 079167383 Salary: 29093 kr.
-1983 11 25 Telephone Number: 0793625401 Salary: 33415 kr.
-2018 6 4 Telephone Number: 0734348124 Salary: 26649 kr.
-1998 7 23 Telephone Number: 0787991827 Salary: 60887 kr.
-2013 12 8 Telephone Number: 0739280842 Salary: 62925 kr.
-1996 9 12 Telephone Number: 0751261146 Salary: 47867 kr.
-1973 11 8 Telephone Number: 0769008354 Salary: 29330 kr.
-1971 8 24 Telephone Number: 0758981778 Salary: 43205 kr.
-2009 7 1 Telephone Number: 0741388702 Salary: 43523 kr.
-2017 10 30 Telephone Number: 0741104012 Salary: 58935 kr.
-1972 7 6 Telephone Number: 0739553861 Salary: 35216 kr.
-1984 5 26 Telephone Number: 0743698206 Salary: 45582 kr.
-2025 4 1 Telephone Number: 0775523455 Salary: 54591 kr.
-1994 8 17 Telephone Number: 0715654649 Salary: 66501 kr.
-1987 12 8 Telephone Number: 0768862663 Salary: 38339 kr.
-2023 8 22 Telephone Number: 0793666484 Salary: 55575 kr.
-1976 1 5 Telephone Number: 0750490868 Salary: 51761 kr.
-2016 7 9 Telephone Number: 0791326233 Salary: 55450 kr.
-1978 5 29 Telephone Number: 0779909692 Salary: 58145 kr.
-1992 3 1 Telephone Number: 0776477914 Salary: 29624 kr.
-1969 2 28 Telephone Number: 0798854432 Salary: 58278 kr.
-1993 12 13 Telephone Number: 079221015 Salary: 62596 kr.
-1964 2 16 Telephone Number: 0775623420 Salary: 41773 kr.
-1980 1 21 Telephone Number: 0733131935 Salary: 61449 kr.
-2023 7 30 Telephone Number: 0782358899 Salary: 40970 kr.
-2017 6 24 Telephone Number: 0769138452 Salary: 64101 kr.
-1970 6 27 Telephone Number: 0797907466 Salary: 42949 kr.
-2011 7 27 Telephone Number: 0767650768 Salary: 60933 kr.
-1979 9 27 Telephone Number: 0717456605 Salary: 62519 kr.
-1965 7 13 Telephone Number: 0775428840 Salary: 54890 kr.
-2019 7 22 Telephone Number: 0748117826 Salary: 64380 kr.
-2011 5 6 Telephone Number: 0772472970 Salary: 27820 kr.
-2001 4 22 Telephone Number: 0768510426 Salary: 47625 kr.
-2022 4 13 Telephone Number: 0716997724 Salary: 50911 kr.
-1994 7 7 Telephone Number: 0767009060 Salary: 57882 kr.
-2006 12 1 Telephone Number: 0797136251 Salary: 65442 kr.
-1995 10 27 Telephone Number: 0754782411 Salary: 57038 kr.
-2016 9 18 Telephone Number: 0753082830 Salary: 43724 kr.
-1987 7 26 Telephone Number: 0778510358 Salary: 50239 kr.
-2005 10 15 Telephone Number: 0787388875 Salary: 63225 kr.
-1980 12 23 Telephone Number: 0756477186 Salary: 61856 kr.
-1977 9 18 Telephone Number: 0791366576 Salary: 26586 kr.
-1977 7 21 Telephone Number: 0798665135 Salary: 47990 kr.
-1980 3 20 Telephone Number: 0757122802 Salary: 63862 kr.
-1990 11 22 Telephone Number: 0784894515 Salary: 66648 kr.
-1971 3 11 Telephone Number: 0725553722 Salary: 51098 kr.
-1999 9 26 Telephone Number: 0798665411 Salary: 49880 kr.
-1970 2 5 Telephone Number: 076400663 Salary: 31949 kr.
-2009 6 4 Telephone Number: 072155488 Salary: 33200 kr.
-1973 6 28 Telephone Number: 0745735050 Salary: 27533 kr.
-1977 3 27 Telephone Number: 0789134915 Salary: 29738 kr.
-1988 7 5 Telephone Number: 0765352606 Salary: 50289 kr.
-2021 10 25 Telephone Number: 0737001926 Salary: 64678 kr.
-2004 1 17 Telephone Number: 0746674440 Salary: 44124 kr.
-1967 4 12 Telephone Number: 0761662504 Salary: 30891 kr.
-1980 9 10 Telephone Number: 0725847875 Salary: 32293 kr.
-2020 9 11 Telephone Number: 0744828839 Salary: 49040 kr.
-1988 12 18 Telephone Number: 0736598034 Salary: 46000 kr.
-2010 12 26 Telephone Number: 0783060125 Salary: 60073 kr.
-1996 10 25 Telephone Number: 0720599969 Salary: 53662 kr.
-2007 7 15 Telephone Number: 072394859 Salary: 47319 kr.
-2023 8 13 Telephone Number: 0792130659 Salary: 39904 kr.
-2019 5 13 Telephone Number: 0787917227 Salary: 46947 kr.
-1989 2 23 Telephone Number: 0722743075 Salary: 51023 kr.
-1967 2 19 Telephone Number: 0710565770 Salary: 29275 kr.
-1991 1 7 Telephone Number: 0713716058 Salary: 48535 kr.
-1963 12 6 Telephone Number: 0755746195 Salary: 63986 kr.
-1975 2 12 Telephone Number: 0767921429 Salary: 52298 kr.
-1967 10 28 Telephone Number: 071981360 Salary: 27532 kr.
-2000 4 7 Telephone Number: 0710173857 Salary: 44169 kr.
-1965 3 19 Telephone Number: 0790360988 Salary: 34490 kr.
-2015 1 23 Telephone Number: 0745562110 Salary: 27364 kr.
-1982 10 24 Telephone Number: 0714696059 Salary: 53944 kr.
-1974 7 25 Telephone Number: 0780987659 Salary: 27172 kr.
-1992 5 4 Telephone Number: 0741103871 Salary: 65906 kr.
-1961 7 27 Telephone Number: 0766255723 Salary: 36990 kr.
-1991 9 12 Telephone Number: 0797628883 Salary: 45421 kr.
-1970 4 8 Telephone Number: 0770485017 Salary: 60187 kr.
-1992 4 20 Telephone Number: 0718132757 Salary: 33490 kr.
-2002 6 13 Telephone Number: 0788048306 Salary: 53136 kr.
-2012 1 29 Telephone Number: 0759068448 Salary: 31872 kr.
-1971 12 24 Telephone Number: 0739261447 Salary: 38028 kr.
-2005 1 12 Telephone Number: 0757204344 Salary: 27524 kr.
-1999 4 27 Telephone Number: 0775951726 Salary: 36413 kr.
-2006 4 26 Telephone Number: 0755513921 Salary: 56201 kr.
-1973 9 31 Telephone Number: 0735017086 Salary: 45784 kr.
-1994 9 28 Telephone Number: 0783235879 Salary: 40025 kr.
-1974 7 12 Telephone Number: 0776108696 Salary: 35933 kr.
-1999 7 14 Telephone Number: 0744792957 Salary: 52567 kr.
-1983 8 23 Telephone Number: 0747415970 Salary: 28243 kr.
-1964 2 27 Telephone Number: 076401044 Salary: 62851 kr.
-1970 6 15 Telephone Number: 078802505 Salary: 51827 kr.
-2006 8 29 Telephone Number: 0794682807 Salary: 59167 kr.
-1995 10 2 Telephone Number: 0799644309 Salary: 34485 kr.
-2023 3 15 Telephone Number: 0759613110 Salary: 61609 kr.
-2004 8 25 Telephone Number: 0722880408 Salary: 48405 kr.
-2022 2 21 Telephone Number: 0746170967 Salary: 26923 kr.
-1988 12 14 Telephone Number: 0763035574 Salary: 41420 kr.
-2024 11 24 Telephone Number: 0751971187 Salary: 48628 kr.
-1982 11 17 Telephone Number: 078163578 Salary: 63309 kr.
-2001 5 8 Telephone Number: 0779026845 Salary: 62307 kr.
-2007 9 13 Telephone Number: 0780446592 Salary: 32120 kr.
-2017 4 22 Telephone Number: 0769092983 Salary: 54497 kr.
-1991 9 17 Telephone Number: 0732045360 Salary: 55057 kr.
-2004 12 4 Telephone Number: 0716516159 Salary: 61463 kr.
-1965 12 9 Telephone Number: 0749010278 Salary: 49015 kr.
-2005 9 26 Telephone Number: 0798230246 Salary: 36386 kr.
-1996 7 7 Telephone Number: 0751733560 Salary: 34006 kr.
-1973 11 22 Telephone Number: 0735874842 Salary: 61449 kr.
-2011 1 10 Telephone Number: 0743456975 Salary: 48411 kr.
-2015 12 24 Telephone Number: 0793660631 Salary: 47402 kr.
-1994 10 23 Telephone Number: 0754471350 Salary: 55151 kr.
-2004 9 10 Telephone Number: 0721569452 Salary: 28177 kr.
-2019 11 10 Telephone Number: 0757387891 Salary: 59331 kr.
-1968 1 19 Telephone Number: 0726072430 Salary: 53754 kr.
-1969 9 29 Telephone Number: 0794575262 Salary: 54146 kr.
-2001 2 16 Telephone Number: 079406225 Salary: 59090 kr.
-1968 1 10 Telephone Number: 071700389 Salary: 59360 kr.
-1974 7 31 Telephone Number: 0778506233 Salary: 28360 kr.
-2007 11 2 Telephone Number: 0728257719 Salary: 50571 kr.
-1997 2 7 Telephone Number: 0721211050 Salary: 41191 kr.
-1995 9 21 Telephone Number: 0726806431 Salary: 59057 kr.
-2014 1 19 Telephone Number: 0760890322 Salary: 65856 kr.
-2005 4 30 Telephone Number: 0794955397 Salary: 38801 kr.
-2022 2 14 Telephone Number: 0782087822 Salary: 35302 kr.
-1980 11 5 Telephone Number: 0728351777 Salary: 34476 kr.
-2023 4 16 Telephone Number: 0715304116 Salary: 42666 kr.
-1991 4 28 Telephone Number: 0757263636 Salary: 36783 kr.
-2018 1 28 Telephone Number: 0745172756 Salary: 35821 kr.
-1985 10 11 Telephone Number: 0754834994 Salary: 49517 kr.
-1981 11 18 Telephone Number: 0774826790 Salary: 57859 kr.
-2024 5 1 Telephone Number: 0790581025 Salary: 43628 kr.
-1987 11 8 Telephone Number: 0722337459 Salary: 39356 kr.
-2005 2 10 Telephone Number: 0759841743 Salary: 50157 kr.
-1990 4 8 Telephone Number: 0720175743 Salary: 58122 kr.
-1975 8 14 Telephone Number: 078197212 Salary: 61240 kr.
-1989 7 29 Telephone Number: 0733453626 Salary: 58743 kr.
-1987 1 15 Telephone Number: 0731551192 Salary: 40063 kr.
-1994 12 8 Telephone Number: 0750312295 Salary: 46012 kr.
-2002 5 5 Telephone Number: 0717810843 Salary: 59088 kr.
-2003 10 19 Telephone Number: 0741617481 Salary: 47961 kr.
-1965 7 17 Telephone Number: 0787737822 Salary: 28763 kr.
-1972 5 28 Telephone Number: 0745789644 Salary: 66026 kr.
-1961 3 20 Telephone Number: 0731343515 Salary: 34851 kr.
-2000 8 8 Telephone Number: 0737142142 Salary: 59335 kr.
-2023 7 7 Telephone Number: 0745683303 Salary: 35285 kr.
-1982 2 10 Telephone Number: 0756840738 Salary: 39771 kr.
-2022 11 8 Telephone Number: 0791419456 Salary: 39882 kr.
-2009 2 14 Telephone Number: 0769161339 Salary: 66268 kr.
-2000 10 28 Telephone Number: 0763229517 Salary: 47191 kr.
-1966 2 19 Telephone Number: 0792051438 Salary: 35620 kr.
-2010 7 7 Telephone Number: 0735009622 Salary: 58367 kr.
-2009 8 8 Telephone Number: 07347986 Salary: 32437 kr.
-1977 1 17 Telephone Number: 0799645220 Salary: 62960 kr.
-1994 8 22 Telephone Number: 0717936933 Salary: 28821 kr.
-1985 3 19 Telephone Number: 0787492749 Salary: 34573 kr.
-1972 7 12 Telephone Number: 0777536342 Salary: 56019 kr.
-2011 9 26 Telephone Number: 0763045217 Salary: 36998 kr.
-1998 2 11 Telephone Number: 074837066 Salary: 46966 kr.
-2016 4 22 Telephone Number: 0768764848 Salary: 26816 kr.
-1973 11 28 Telephone Number: 0768946570 Salary: 61056 kr.
-1975 9 11 Telephone Number: 0794792372 Salary: 53922 kr.
-1966 7 20 Telephone Number: 0770268883 Salary: 38089 kr.
-1998 12 16 Telephone Number: 0797032498 Salary: 44659 kr.
-1980 5 1 Telephone Number: 0717245744 Salary: 64498 kr.
-1977 3 17 Telephone Number: 0790629129 Salary: 45369 kr.
-1999 8 17 Telephone Number: 0777222362 Salary: 35431 kr.
-1962 11 10 Telephone Number: 0795554253 Salary: 32329 kr.
-1976 12 9 Telephone Number: 0796839433 Salary: 63791 kr.
-2024 1 30 Telephone Number: 0773226693 Salary: 51275 kr.
-1972 8 16 Telephone Number: 0741857935 Salary: 58079 kr.
-1966 6 24 Telephone Number: 0742848315 Salary: 31574 kr.
-1969 5 6 Telephone Number: 0743573229 Salary: 36180 kr.
-2014 9 4 Telephone Number: 0711406341 Salary: 63494 kr.
-2020 8 23 Telephone Number: 0792662089 Salary: 26267 kr.
-2005 12 26 Telephone Number: 0757763580 Salary: 61989 kr.
-1964 5 31 Telephone Number: 0745433630 Salary: 45980 kr.
-2009 1 4 Telephone Number: 0727478816 Salary: 47625 kr.
-1969 3 20 Telephone Number: 071339970 Salary: 37113 kr.
-2009 6 12 Telephone Number: 0777315087 Salary: 49340 kr.
-1982 12 22 Telephone Number: 0743872982 Salary: 29208 kr.
-2001 7 17 Telephone Number: 0745964142 Salary: 38141 kr.
-1985 9 19 Telephone Number: 0774571567 Salary: 25965 kr.
-1977 4 30 Telephone Number: 0767313717 Salary: 39557 kr.
-2015 10 13 Telephone Number: 0797043228 Salary: 64865 kr.
-1974 6 10 Telephone Number: 0714395556 Salary: 30258 kr.
-1966 10 5 Telephone Number: 0755230745 Salary: 50298 kr.
-2025 3 13 Telephone Number: 073574020 Salary: 39891 kr.
-1999 11 20 Telephone Number: 0798508416 Salary: 52110 kr.
-2004 7 13 Telephone Number: 0769977740 Salary: 36478 kr.
-2000 9 30 Telephone Number: 0731763999 Salary: 59363 kr.
-1963 11 27 Telephone Number: 0774862841 Salary: 40179 kr.
-1973 4 8 Telephone Number: 0727916079 Salary: 31270 kr.
-2008 3 27 Telephone Number: 0734560872 Salary: 45435 kr.
-1982 9 7 Telephone Number: 0795148504 Salary: 32322 kr.
-1969 5 10 Telephone Number: 0787755401 Salary: 27271 kr.
-1970 9 2 Telephone Number: 0733642733 Salary: 58389 kr.
-1971 12 9 Telephone Number: 0794708471 Salary: 52454 kr.
-1998 11 1 Telephone Number: 0714196658 Salary: 31705 kr.
-2025 1 23 Telephone Number: 0798194344 Salary: 66464 kr.
-2007 6 12 Telephone Number: 0711588925 Salary: 54573 kr.
-2007 7 19 Telephone Number: 0763578380 Salary: 62246 kr.
-1984 1 8 Telephone Number: 0721946995 Salary: 29383 kr.
-1982 2 1 Telephone Number: 0754801216 Salary: 63223 kr.
-2008 10 27 Telephone Number: 0749084387 Salary: 31887 kr.
-1962 5 6 Telephone Number: 0726902660 Salary: 60283 kr.
-2020 9 2 Telephone Number: 0718479005 Salary: 48102 kr.
-2015 2 20 Telephone Number: 0714868678 Salary: 55518 kr.
-1984 6 6 Telephone Number: 0748274022 Salary: 38999 kr.
-1966 8 11 Telephone Number: 0746543573 Salary: 41672 kr.
-1979 11 19 Telephone Number: 0798712005 Salary: 49870 kr.
-1970 2 2 Telephone Number: 0785465752 Salary: 65900 kr.
-1992 8 18 Telephone Number: 0729390630 Salary: 65054 kr.
-2019 8 25 Telephone Number: 0731919228 Salary: 28828 kr.
-1968 11 1 Telephone Number: 077595937 Salary: 29117 kr.
-2025 3 18 Telephone Number: 0749217230 Salary: 58810 kr.
-2022 10 16 Telephone Number: 0740980376 Salary: 37477 kr.
-2007 4 12 Telephone Number: 0792033860 Salary: 52803 kr.
-2023 2 21 Telephone Number: 079574561 Salary: 38588 kr.
-2003 9 18 Telephone Number: 0757072303 Salary: 31664 kr.
-2002 12 24 Telephone Number: 0771432228 Salary: 55547 kr.
-1985 7 24 Telephone Number: 0748914190 Salary: 30941 kr.
-2004 3 1 Telephone Number: 0734299205 Salary: 54416 kr.
-1964 8 22 Telephone Number: 078756397 Salary: 54989 kr.
-2023 1 18 Telephone Number: 0764072713 Salary: 50616 kr.
-1983 9 12 Telephone Number: 0726944559 Salary: 42381 kr.
-1968 3 18 Telephone Number: 0726293879 Salary: 58636 kr.
-1991 11 3 Telephone Number: 0795604093 Salary: 44249 kr.
-1998 3 2 Telephone Number: 0786622472 Salary: 50762 kr.
-1970 5 19 Telephone Number: 0731910169 Salary: 59065 kr.
-2018 3 8 Telephone Number: 0782620199 Salary: 47708 kr.
-1988 8 11 Telephone Number: 0750099900 Salary: 55003 kr.
-1989 11 28 Telephone Number: 0794971333 Salary: 59540 kr.
-1972 8 2 Telephone Number: 0798498937 Salary: 63089 kr.
-1986 7 18 Telephone Number: 079563253 Salary: 37266 kr.
-1984 8 20 Telephone Number: 0731707566 Salary: 48751 kr.
-1971 11 22 Telephone Number: 0761013651 Salary: 66229 kr.
-1990 7 11 Telephone Number: 0715579034 Salary: 29636 kr.
-1974 5 15 Telephone Number: 0766957186 Salary: 50407 kr.
-1967 8 22 Telephone Number: 0779447558 Salary: 62138 kr.
-1999 11 8 Telephone Number: 074695961 Salary: 66622 kr.
-1976 10 2 Telephone Number: 0734760499 Salary: 54272 kr.
-2014 10 14 Telephone Number: 0796991924 Salary: 41293 kr.
-1966 1 3 Telephone Number: 0778186149 Salary: 65183 kr.
-1969 10 22 Telephone Number: 0781464043 Salary: 59001 kr.
-1968 8 7 Telephone Number: 0729565800 Salary: 59090 kr.
-2023 3 25 Telephone Number: 0753190131 Salary: 45757 kr.
-2022 11 18 Telephone Number: 0717728590 Salary: 33851 kr.
-1996 1 16 Telephone Number: 0727956689 Salary: 51368 kr.
-1971 8 1 Telephone Number: 0799975532 Salary: 42003 kr.
-1992 8 15 Telephone Number: 0754716137 Salary: 48899 kr.
-2008 1 24 Telephone Number: 0771562614 Salary: 50600 kr.
-2017 2 23 Telephone Number: 0761078626 Salary: 50418 kr.
-2013 11 19 Telephone Number: 0710181921 Salary: 38545 kr.
-2020 7 15 Telephone Number: 0791276242 Salary: 27338 kr.
-1984 3 30 Telephone Number: 0785477562 Salary: 43483 kr.
-1983 3 4 Telephone Number: 0758495197 Salary: 45987 kr.
-1969 10 21 Telephone Number: 076074161 Salary: 36677 kr.
-1964 6 9 Telephone Number: 0794592450 Salary: 39918 kr.
-2015 12 24 Telephone Number: 0745288177 Salary: 64010 kr.
-1964 10 3 Telephone Number: 0722126565 Salary: 33921 kr.
-1985 6 1 Telephone Number: 0783296079 Salary: 45413 kr.
-1967 1 31 Telephone Number: 0773779345 Salary: 32196 kr.
-1977 7 3 Telephone Number: 0787521170 Salary: 30252 kr.
-2017 6 16 Telephone Number: 0740379326 Salary: 53407 kr.
-1963 7 24 Telephone Number: 0766657926 Salary: 64565 kr.
-2006 12 12 Telephone Number: 0783926462 Salary: 47912 kr.
+2007-5-30 Telephone Number: 0775692826 Salary: 31394 kr.
+2002-7-16 Telephone Number: 0724031117 Salary: 33575 kr.
+2002-1-2 Telephone Number: 0755061347 Salary: 65256 kr.
+1981-5-19 Telephone Number: 0747725578 Salary: 39111 kr.
+1968-11-18 Telephone Number: 076107988 Salary: 60677 kr.
+1964-7-4 Telephone Number: 0776237732 Salary: 45488 kr.
+2005-12-14 Telephone Number: 073126072 Salary: 65129 kr.
+1991-1-15 Telephone Number: 0790706349 Salary: 42584 kr.
+1980-11-26 Telephone Number: 0710741198 Salary: 34599 kr.
+1984-12-6 Telephone Number: 0713747597 Salary: 54228 kr.
+1994-4-23 Telephone Number: 0758684276 Salary: 38433 kr.
+2017-3-7 Telephone Number: 0786309964 Salary: 39304 kr.
+1998-12-6 Telephone Number: 0712565814 Salary: 34800 kr.
+2020-3-2 Telephone Number: 0796949224 Salary: 32220 kr.
+1971-8-10 Telephone Number: 0779517595 Salary: 48354 kr.
+1961-2-15 Telephone Number: 0714982146 Salary: 66563 kr.
+1968-9-16 Telephone Number: 07626810 Salary: 65495 kr.
+2015-6-10 Telephone Number: 078470153 Salary: 39816 kr.
+1973-1-27 Telephone Number: 0761436722 Salary: 55412 kr.
+1989-1-12 Telephone Number: 0723620560 Salary: 34056 kr.
+1970-3-23 Telephone Number: 0752212678 Salary: 46023 kr.
+2005-8-20 Telephone Number: 0719539558 Salary: 61352 kr.
+1986-11-25 Telephone Number: 0793769778 Salary: 28261 kr.
+1964-4-19 Telephone Number: 0717206800 Salary: 28490 kr.
+2018-6-4 Telephone Number: 077839608 Salary: 26757 kr.
+2013-8-5 Telephone Number: 0755257670 Salary: 40698 kr.
+1980-7-10 Telephone Number: 076440123 Salary: 48698 kr.
+1975-11-8 Telephone Number: 0789159919 Salary: 41320 kr.
+2023-12-30 Telephone Number: 0738540763 Salary: 33160 kr.
+2005-10-8 Telephone Number: 0711472794 Salary: 53881 kr.
+1972-12-10 Telephone Number: 078331491 Salary: 39772 kr.
+1973-7-2 Telephone Number: 0766208041 Salary: 61644 kr.
+2010-4-23 Telephone Number: 0744269839 Salary: 40882 kr.
+1984-12-2 Telephone Number: 0732314401 Salary: 50555 kr.
+2000-7-3 Telephone Number: 0786267253 Salary: 41899 kr.
+1966-7-22 Telephone Number: 0732734702 Salary: 46176 kr.
+1986-11-9 Telephone Number: 0787169536 Salary: 38987 kr.
+2001-3-20 Telephone Number: 074403412 Salary: 64802 kr.
+1999-1-1 Telephone Number: 0719184450 Salary: 35569 kr.
+1988-6-8 Telephone Number: 0729341751 Salary: 47932 kr.
+1984-1-23 Telephone Number: 0794021936 Salary: 39798 kr.
+2015-5-24 Telephone Number: 0761358442 Salary: 31819 kr.
+1962-2-27 Telephone Number: 0762962243 Salary: 48584 kr.
+2000-3-12 Telephone Number: 0790780775 Salary: 64948 kr.
+1978-6-17 Telephone Number: 0758389243 Salary: 37410 kr.
+1966-6-9 Telephone Number: 0720439442 Salary: 33529 kr.
+1984-9-19 Telephone Number: 0777868236 Salary: 48723 kr.
+1972-12-28 Telephone Number: 0799440218 Salary: 34903 kr.
+2019-4-17 Telephone Number: 0734769668 Salary: 56562 kr.
+2014-7-13 Telephone Number: 0792017814 Salary: 45042 kr.
+2005-3-24 Telephone Number: 072715117 Salary: 34432 kr.
+1994-7-20 Telephone Number: 0782235418 Salary: 62971 kr.
+1968-9-19 Telephone Number: 0744534748 Salary: 36478 kr.
+1994-11-17 Telephone Number: 0712034761 Salary: 35208 kr.
+1974-6-9 Telephone Number: 0727573902 Salary: 65385 kr.
+1974-8-24 Telephone Number: 0771034086 Salary: 43653 kr.
+1967-5-17 Telephone Number: 076480686 Salary: 41232 kr.
+1984-6-13 Telephone Number: 0747707250 Salary: 28173 kr.
+2014-2-15 Telephone Number: 0780269016 Salary: 58775 kr.
+1966-11-18 Telephone Number: 0779659772 Salary: 53544 kr.
+2020-10-16 Telephone Number: 0763517806 Salary: 63420 kr.
+2018-12-14 Telephone Number: 0717463662 Salary: 51007 kr.
+1991-7-19 Telephone Number: 0720884328 Salary: 56774 kr.
+2011-5-8 Telephone Number: 0724051098 Salary: 51267 kr.
+2005-3-8 Telephone Number: 071338558 Salary: 42186 kr.
+1966-2-15 Telephone Number: 0747438828 Salary: 52939 kr.
+2000-3-10 Telephone Number: 0733138193 Salary: 65901 kr.
+2018-3-5 Telephone Number: 0726314679 Salary: 59827 kr.
+2003-9-29 Telephone Number: 0744845913 Salary: 58150 kr.
+2017-5-21 Telephone Number: 0758830822 Salary: 48703 kr.
+1992-11-21 Telephone Number: 0711739408 Salary: 55952 kr.
+2023-11-21 Telephone Number: 0798194781 Salary: 39683 kr.
+2006-1-3 Telephone Number: 0773690461 Salary: 46459 kr.
+2015-5-26 Telephone Number: 0743019552 Salary: 50790 kr.
+1995-10-21 Telephone Number: 0770714948 Salary: 36736 kr.
+2019-1-28 Telephone Number: 0794892987 Salary: 41717 kr.
+2006-11-20 Telephone Number: 0719455845 Salary: 39878 kr.
+1984-11-21 Telephone Number: 0734569789 Salary: 27164 kr.
+2009-3-16 Telephone Number: 0739204237 Salary: 52120 kr.
+1966-6-22 Telephone Number: 0766206184 Salary: 54127 kr.
+2020-4-7 Telephone Number: 0793848619 Salary: 53888 kr.
+1972-5-12 Telephone Number: 0736089031 Salary: 61120 kr.
+2009-4-5 Telephone Number: 0768343585 Salary: 32755 kr.
+1964-11-8 Telephone Number: 078611499 Salary: 63943 kr.
+2008-3-6 Telephone Number: 0749690038 Salary: 60795 kr.
+1999-5-23 Telephone Number: 0783383131 Salary: 57540 kr.
+2010-6-10 Telephone Number: 0745618390 Salary: 59434 kr.
+1992-11-10 Telephone Number: 0739211797 Salary: 60526 kr.
+1972-1-29 Telephone Number: 0794573628 Salary: 27120 kr.
+2008-5-22 Telephone Number: 0764450380 Salary: 55712 kr.
+1969-10-3 Telephone Number: 071439542 Salary: 43251 kr.
+1994-10-6 Telephone Number: 0770365650 Salary: 48940 kr.
+2018-1-14 Telephone Number: 0760743889 Salary: 44986 kr.
+1973-7-6 Telephone Number: 0721577352 Salary: 36276 kr.
+2024-10-21 Telephone Number: 0796704426 Salary: 30561 kr.
+1961-3-23 Telephone Number: 0762360772 Salary: 57511 kr.
+1979-1-22 Telephone Number: 0784067786 Salary: 25771 kr.
+1969-2-11 Telephone Number: 0772147436 Salary: 43623 kr.
+2006-10-29 Telephone Number: 0799731806 Salary: 49316 kr.
+1991-10-20 Telephone Number: 0770650055 Salary: 26234 kr.
+1966-12-12 Telephone Number: 0759912157 Salary: 30987 kr.
+2023-4-10 Telephone Number: 0780745716 Salary: 64226 kr.
+1985-4-13 Telephone Number: 0796213755 Salary: 33487 kr.
+1970-2-18 Telephone Number: 0783954588 Salary: 47949 kr.
+2023-7-13 Telephone Number: 0724306575 Salary: 64318 kr.
+1979-7-19 Telephone Number: 072741454 Salary: 63963 kr.
+1970-12-21 Telephone Number: 0726706762 Salary: 31150 kr.
+1964-8-1 Telephone Number: 0769948063 Salary: 37376 kr.
+2023-8-4 Telephone Number: 0754962540 Salary: 34687 kr.
+1973-1-29 Telephone Number: 0797752090 Salary: 39518 kr.
+2005-8-16 Telephone Number: 0712687980 Salary: 54293 kr.
+2010-2-6 Telephone Number: 076272267 Salary: 59105 kr.
+2012-2-5 Telephone Number: 0798536384 Salary: 63492 kr.
+1967-9-7 Telephone Number: 0780240388 Salary: 53269 kr.
+1982-5-22 Telephone Number: 0714331557 Salary: 65553 kr.
+2013-6-3 Telephone Number: 0776293409 Salary: 54702 kr.
+2010-3-9 Telephone Number: 077964581 Salary: 30483 kr.
+2009-12-30 Telephone Number: 0733968934 Salary: 54939 kr.
+2025-10-30 Telephone Number: 0760913832 Salary: 28901 kr.
+1987-9-4 Telephone Number: 0751294258 Salary: 41862 kr.
+1982-8-10 Telephone Number: 0716766625 Salary: 29232 kr.
+2009-11-20 Telephone Number: 0767133886 Salary: 35439 kr.
+2024-11-26 Telephone Number: 078135147 Salary: 55736 kr.
+2007-7-3 Telephone Number: 0763707141 Salary: 36417 kr.
+1968-11-21 Telephone Number: 0785902025 Salary: 25868 kr.
+1982-1-11 Telephone Number: 0725722576 Salary: 43964 kr.
+1985-8-1 Telephone Number: 075649858 Salary: 61021 kr.
+1968-11-8 Telephone Number: 0799528150 Salary: 63622 kr.
+2008-2-26 Telephone Number: 0733084357 Salary: 29513 kr.
+1988-4-26 Telephone Number: 0713987109 Salary: 26432 kr.
+1970-12-13 Telephone Number: 072725138 Salary: 39781 kr.
+2010-4-27 Telephone Number: 072212878 Salary: 45789 kr.
+2000-10-25 Telephone Number: 0794396747 Salary: 50878 kr.
+2005-3-8 Telephone Number: 0792898884 Salary: 40741 kr.
+1963-1-16 Telephone Number: 0780202938 Salary: 55800 kr.
+1969-10-21 Telephone Number: 0785139311 Salary: 30798 kr.
+1998-2-4 Telephone Number: 0773619549 Salary: 41587 kr.
+2016-11-7 Telephone Number: 0740046533 Salary: 40190 kr.
+2022-4-21 Telephone Number: 0772818527 Salary: 66394 kr.
+1999-10-18 Telephone Number: 0795133596 Salary: 44465 kr.
+1987-10-13 Telephone Number: 075872377 Salary: 58082 kr.
+1989-10-30 Telephone Number: 0757662461 Salary: 51621 kr.
+2010-6-29 Telephone Number: 0737432791 Salary: 58885 kr.
+1998-6-3 Telephone Number: 0755589559 Salary: 32022 kr.
+2011-8-9 Telephone Number: 0798989097 Salary: 39444 kr.
+1968-8-23 Telephone Number: 079310834 Salary: 59481 kr.
+2005-8-25 Telephone Number: 0729864501 Salary: 30804 kr.
+1998-9-10 Telephone Number: 0744373011 Salary: 46189 kr.
+1999-1-6 Telephone Number: 0718485737 Salary: 26018 kr.
+1964-10-14 Telephone Number: 0750242491 Salary: 63065 kr.
+2006-9-13 Telephone Number: 0775762585 Salary: 58922 kr.
+1987-9-3 Telephone Number: 0728987055 Salary: 66490 kr.
+2002-9-23 Telephone Number: 0750047727 Salary: 45530 kr.
+2013-2-13 Telephone Number: 0791519966 Salary: 50637 kr.
+1998-10-5 Telephone Number: 0759337388 Salary: 37899 kr.
+1994-10-1 Telephone Number: 0789384723 Salary: 56419 kr.
+2011-5-23 Telephone Number: 077154245 Salary: 36277 kr.
+1968-7-17 Telephone Number: 073738363 Salary: 65004 kr.
+1963-10-16 Telephone Number: 077773778 Salary: 30702 kr.
+1969-4-12 Telephone Number: 077350474 Salary: 64068 kr.
+2003-5-2 Telephone Number: 0750773907 Salary: 45046 kr.
+1968-2-6 Telephone Number: 0722515611 Salary: 29375 kr.
+1980-8-11 Telephone Number: 0718777906 Salary: 66009 kr.
+2006-3-1 Telephone Number: 0790532209 Salary: 53644 kr.
+1974-8-1 Telephone Number: 0753007372 Salary: 63650 kr.
+2006-2-14 Telephone Number: 0764898185 Salary: 60996 kr.
+2016-2-14 Telephone Number: 0763963296 Salary: 63452 kr.
+2020-8-28 Telephone Number: 0728990616 Salary: 48053 kr.
+1990-11-3 Telephone Number: 0767118905 Salary: 40360 kr.
+2000-10-29 Telephone Number: 073426061 Salary: 31176 kr.
+1992-9-7 Telephone Number: 071660836 Salary: 51905 kr.
+1971-2-10 Telephone Number: 0752542832 Salary: 32391 kr.
+1996-1-30 Telephone Number: 0762590315 Salary: 49011 kr.
+2001-1-11 Telephone Number: 0772823348 Salary: 46743 kr.
+1976-6-26 Telephone Number: 0749241222 Salary: 60023 kr.
+1971-5-24 Telephone Number: 0768212569 Salary: 55750 kr.
+2023-1-15 Telephone Number: 0745647090 Salary: 41340 kr.
+2024-9-30 Telephone Number: 073128704 Salary: 54914 kr.
+2006-9-5 Telephone Number: 0797167215 Salary: 51894 kr.
+1972-3-20 Telephone Number: 078758953 Salary: 56208 kr.
+2008-7-19 Telephone Number: 0713147974 Salary: 55855 kr.
+1967-8-30 Telephone Number: 0782552213 Salary: 30828 kr.
+1999-8-2 Telephone Number: 0794747050 Salary: 60929 kr.
+2015-1-8 Telephone Number: 0715541571 Salary: 57248 kr.
+2011-11-14 Telephone Number: 0780795619 Salary: 43657 kr.
+2006-8-2 Telephone Number: 0753443221 Salary: 58704 kr.
+1985-10-26 Telephone Number: 07939214 Salary: 62138 kr.
+1985-1-2 Telephone Number: 0711889293 Salary: 33145 kr.
+2023-3-28 Telephone Number: 0785317379 Salary: 34695 kr.
+2007-7-17 Telephone Number: 0735476084 Salary: 58719 kr.
+1995-1-22 Telephone Number: 0772562699 Salary: 43515 kr.
+2015-3-1 Telephone Number: 0796675650 Salary: 41035 kr.
+1991-4-17 Telephone Number: 0784581656 Salary: 57359 kr.
+1992-5-28 Telephone Number: 0751508619 Salary: 56163 kr.
+1967-10-26 Telephone Number: 0756895801 Salary: 34534 kr.
+1976-3-5 Telephone Number: 071963666 Salary: 43484 kr.
+1998-5-9 Telephone Number: 0769556716 Salary: 41704 kr.
+2020-9-27 Telephone Number: 073540584 Salary: 47413 kr.
+2017-8-29 Telephone Number: 0765900358 Salary: 65714 kr.
+1990-11-2 Telephone Number: 0713368226 Salary: 35361 kr.
+2012-7-3 Telephone Number: 0757585196 Salary: 53275 kr.
+1965-8-16 Telephone Number: 078797225 Salary: 43557 kr.
+2014-3-10 Telephone Number: 0735187315 Salary: 60777 kr.
+2001-4-27 Telephone Number: 0747194205 Salary: 50760 kr.
+1971-3-11 Telephone Number: 0757639004 Salary: 46316 kr.
+1992-10-1 Telephone Number: 0759185560 Salary: 27251 kr.
+2006-6-5 Telephone Number: 0712343329 Salary: 35147 kr.
+1998-5-11 Telephone Number: 0714443743 Salary: 49479 kr.
+2004-1-25 Telephone Number: 0785035668 Salary: 33026 kr.
+1999-5-3 Telephone Number: 0711218770 Salary: 31524 kr.
+1974-11-24 Telephone Number: 0776367095 Salary: 51494 kr.
+1996-10-10 Telephone Number: 0778446200 Salary: 51331 kr.
+1993-4-14 Telephone Number: 0755538638 Salary: 30686 kr.
+1997-8-9 Telephone Number: 0747976625 Salary: 44795 kr.
+1991-8-17 Telephone Number: 0762717953 Salary: 34536 kr.
+1969-10-29 Telephone Number: 0730149503 Salary: 52167 kr.
+1963-12-28 Telephone Number: 076830418 Salary: 28725 kr.
+2007-2-17 Telephone Number: 0779767686 Salary: 55346 kr.
+1965-4-30 Telephone Number: 0756858248 Salary: 51515 kr.
+2001-9-14 Telephone Number: 0763021701 Salary: 47012 kr.
+1963-2-25 Telephone Number: 0779038844 Salary: 28187 kr.
+1982-4-15 Telephone Number: 0765881490 Salary: 56798 kr.
+1990-3-21 Telephone Number: 0723174790 Salary: 53698 kr.
+1969-8-11 Telephone Number: 0728046794 Salary: 33179 kr.
+2016-10-13 Telephone Number: 0735313195 Salary: 53649 kr.
+1972-7-29 Telephone Number: 0746166750 Salary: 47970 kr.
+1996-4-4 Telephone Number: 0755793747 Salary: 46688 kr.
+2004-9-10 Telephone Number: 0788458949 Salary: 55553 kr.
+2020-7-11 Telephone Number: 0718388242 Salary: 45389 kr.
+1976-7-17 Telephone Number: 0768144178 Salary: 32628 kr.
+1976-3-9 Telephone Number: 0773057121 Salary: 38583 kr.
+1964-12-29 Telephone Number: 0773644455 Salary: 39499 kr.
+1977-3-19 Telephone Number: 0719640786 Salary: 35428 kr.
+1986-10-17 Telephone Number: 0782960163 Salary: 44223 kr.
+1999-10-19 Telephone Number: 0728307906 Salary: 54827 kr.
+1985-7-12 Telephone Number: 0752050862 Salary: 55979 kr.
+2010-6-5 Telephone Number: 0783334567 Salary: 27177 kr.
+2005-12-16 Telephone Number: 0761710292 Salary: 41716 kr.
+1961-2-26 Telephone Number: 0776134953 Salary: 30091 kr.
+2003-4-4 Telephone Number: 073977999 Salary: 47577 kr.
+1975-7-28 Telephone Number: 0780565898 Salary: 60569 kr.
+1984-3-15 Telephone Number: 0752509255 Salary: 46952 kr.
+2013-9-26 Telephone Number: 0715357421 Salary: 32666 kr.
+1975-9-30 Telephone Number: 0776785577 Salary: 63048 kr.
+2025-2-28 Telephone Number: 0764863750 Salary: 34932 kr.
+1964-11-25 Telephone Number: 0758156405 Salary: 30873 kr.
+2007-1-16 Telephone Number: 0727782629 Salary: 52687 kr.
+1980-9-15 Telephone Number: 0747337409 Salary: 34908 kr.
+1995-11-16 Telephone Number: 0764464433 Salary: 39353 kr.
+2024-6-26 Telephone Number: 0764343864 Salary: 44033 kr.
+2013-10-5 Telephone Number: 0745150069 Salary: 42924 kr.
+2023-6-20 Telephone Number: 0799412277 Salary: 43372 kr.
+1966-1-11 Telephone Number: 0774972415 Salary: 38969 kr.
+1964-12-25 Telephone Number: 0789076732 Salary: 31533 kr.
+1991-11-28 Telephone Number: 075678141 Salary: 38021 kr.
+1989-9-24 Telephone Number: 0747346757 Salary: 50614 kr.
+2006-2-24 Telephone Number: 0790435256 Salary: 42412 kr.
+1994-7-27 Telephone Number: 0755322596 Salary: 60445 kr.
+1996-2-4 Telephone Number: 076259200 Salary: 28855 kr.
+1973-12-17 Telephone Number: 071335380 Salary: 51939 kr.
+1962-1-29 Telephone Number: 0750801969 Salary: 48644 kr.
+1993-8-20 Telephone Number: 0710880228 Salary: 30290 kr.
+2013-9-21 Telephone Number: 0716602322 Salary: 38053 kr.
+2015-1-7 Telephone Number: 0774598734 Salary: 53931 kr.
+1980-4-1 Telephone Number: 0789300631 Salary: 28532 kr.
+2016-6-13 Telephone Number: 0732055001 Salary: 57896 kr.
+1986-11-26 Telephone Number: 0797502139 Salary: 29889 kr.
+1964-3-30 Telephone Number: 0778040206 Salary: 35087 kr.
+1975-3-23 Telephone Number: 0734462379 Salary: 42803 kr.
+2012-10-13 Telephone Number: 0750951165 Salary: 58270 kr.
+1991-6-2 Telephone Number: 0756916008 Salary: 49423 kr.
+2003-7-14 Telephone Number: 0734047256 Salary: 37723 kr.
+2011-6-17 Telephone Number: 0758335384 Salary: 30486 kr.
+2008-11-7 Telephone Number: 0740038874 Salary: 37672 kr.
+2011-6-19 Telephone Number: 0784660639 Salary: 42231 kr.
+2025-1-30 Telephone Number: 0767753280 Salary: 27174 kr.
+1982-6-11 Telephone Number: 0764873779 Salary: 34512 kr.
+1971-11-14 Telephone Number: 0772126402 Salary: 40212 kr.
+1964-4-24 Telephone Number: 0729293299 Salary: 52060 kr.
+2000-3-22 Telephone Number: 071361233 Salary: 62443 kr.
+2006-9-27 Telephone Number: 0780552961 Salary: 30950 kr.
+1966-3-18 Telephone Number: 0748965753 Salary: 56693 kr.
+2012-4-30 Telephone Number: 0719121488 Salary: 50522 kr.
+1970-9-22 Telephone Number: 0785040374 Salary: 43477 kr.
+2007-5-30 Telephone Number: 0742954011 Salary: 40231 kr.
+1965-5-3 Telephone Number: 0757442410 Salary: 61296 kr.
+2000-8-23 Telephone Number: 0783289051 Salary: 55242 kr.
+2001-6-16 Telephone Number: 0746442663 Salary: 41172 kr.
+1962-6-23 Telephone Number: 0782376507 Salary: 41798 kr.
+1975-9-16 Telephone Number: 0768647752 Salary: 40976 kr.
+1961-8-20 Telephone Number: 0798515419 Salary: 28946 kr.
+2005-11-13 Telephone Number: 0730045420 Salary: 48095 kr.
+2004-5-30 Telephone Number: 0756480259 Salary: 61867 kr.
+2002-10-12 Telephone Number: 0742105193 Salary: 39100 kr.
+2020-7-15 Telephone Number: 0772318738 Salary: 36638 kr.
+2006-2-4 Telephone Number: 0727312148 Salary: 28622 kr.
+2013-9-25 Telephone Number: 0728523066 Salary: 49325 kr.
+1997-2-9 Telephone Number: 0735018867 Salary: 28954 kr.
+1987-4-5 Telephone Number: 0774432432 Salary: 48364 kr.
+1982-6-28 Telephone Number: 0769073412 Salary: 57852 kr.
+2004-5-6 Telephone Number: 0775952853 Salary: 36376 kr.
+2003-9-18 Telephone Number: 0744636253 Salary: 53212 kr.
+1974-3-9 Telephone Number: 0744628750 Salary: 39023 kr.
+1974-11-15 Telephone Number: 0762564967 Salary: 55267 kr.
+1998-8-23 Telephone Number: 0777929045 Salary: 31210 kr.
+2022-4-17 Telephone Number: 0730663863 Salary: 52364 kr.
+1975-9-19 Telephone Number: 0737291648 Salary: 62379 kr.
+2016-1-25 Telephone Number: 077220421 Salary: 43495 kr.
+1966-9-4 Telephone Number: 0757789421 Salary: 45839 kr.
+2009-3-23 Telephone Number: 0774147691 Salary: 53387 kr.
+1993-5-29 Telephone Number: 0710835352 Salary: 43699 kr.
+1997-1-9 Telephone Number: 0715600826 Salary: 33993 kr.
+1968-2-7 Telephone Number: 0749545067 Salary: 56253 kr.
+2019-5-8 Telephone Number: 0729327874 Salary: 61669 kr.
+2023-8-23 Telephone Number: 0733443840 Salary: 62410 kr.
+1963-11-23 Telephone Number: 0798753880 Salary: 37696 kr.
+1968-5-22 Telephone Number: 0716177483 Salary: 66195 kr.
+2021-12-6 Telephone Number: 0715699580 Salary: 55277 kr.
+2011-8-20 Telephone Number: 0755610314 Salary: 28820 kr.
+2016-11-27 Telephone Number: 0748830428 Salary: 30887 kr.
+1985-12-3 Telephone Number: 0771828323 Salary: 37209 kr.
+1981-10-12 Telephone Number: 0778859846 Salary: 26201 kr.
+1970-2-19 Telephone Number: 0794584756 Salary: 31149 kr.
+2011-12-11 Telephone Number: 0765946216 Salary: 49624 kr.
+1971-6-19 Telephone Number: 0749913592 Salary: 60051 kr.
+1967-1-11 Telephone Number: 0720692756 Salary: 57108 kr.
+1996-3-23 Telephone Number: 0786091447 Salary: 57141 kr.
+1980-11-24 Telephone Number: 0731061962 Salary: 54093 kr.
+2024-11-7 Telephone Number: 0714760578 Salary: 29241 kr.
+1988-12-17 Telephone Number: 0762042938 Salary: 62502 kr.
+1985-6-6 Telephone Number: 0784557352 Salary: 36028 kr.
+1965-1-22 Telephone Number: 0722064969 Salary: 52111 kr.
+2003-2-25 Telephone Number: 0735557211 Salary: 40244 kr.
+2007-12-10 Telephone Number: 0754250116 Salary: 27865 kr.
+2016-8-1 Telephone Number: 0734596074 Salary: 42915 kr.
+1989-11-22 Telephone Number: 076270654 Salary: 41867 kr.
+1984-2-17 Telephone Number: 0728219910 Salary: 49820 kr.
+1966-9-28 Telephone Number: 0799765006 Salary: 44565 kr.
+2000-12-23 Telephone Number: 0793621061 Salary: 35543 kr.
+1970-7-31 Telephone Number: 0719222557 Salary: 30685 kr.
+2024-1-7 Telephone Number: 0723227387 Salary: 28081 kr.
+1999-1-13 Telephone Number: 0776539577 Salary: 40812 kr.
+2001-2-20 Telephone Number: 0758215631 Salary: 46919 kr.
+1966-10-27 Telephone Number: 0756954500 Salary: 44210 kr.
+1985-5-10 Telephone Number: 0735534358 Salary: 46113 kr.
+2006-10-25 Telephone Number: 0785982315 Salary: 45916 kr.
+1964-8-14 Telephone Number: 0735266248 Salary: 47552 kr.
+2013-1-25 Telephone Number: 0766788768 Salary: 52980 kr.
+1979-10-7 Telephone Number: 0796370378 Salary: 45443 kr.
+1977-10-28 Telephone Number: 0759991807 Salary: 62458 kr.
+1998-6-9 Telephone Number: 072869490 Salary: 31866 kr.
+2025-7-13 Telephone Number: 0720279306 Salary: 28748 kr.
+1984-11-25 Telephone Number: 0756045572 Salary: 31144 kr.
+1978-6-5 Telephone Number: 0768929581 Salary: 62771 kr.
+1966-1-21 Telephone Number: 0725651923 Salary: 26914 kr.
+1968-5-28 Telephone Number: 0791069115 Salary: 40300 kr.
+1972-5-9 Telephone Number: 0781826350 Salary: 44163 kr.
+2002-7-28 Telephone Number: 0769365861 Salary: 65259 kr.
+2005-1-3 Telephone Number: 0724396125 Salary: 29676 kr.
+1991-8-14 Telephone Number: 0740216153 Salary: 63737 kr.
+1990-1-1 Telephone Number: 0755510590 Salary: 51306 kr.
+1986-3-1 Telephone Number: 0718029466 Salary: 60705 kr.
+2001-3-4 Telephone Number: 0750744908 Salary: 40080 kr.
+2003-1-15 Telephone Number: 0731952210 Salary: 40357 kr.
+1994-9-31 Telephone Number: 0721523282 Salary: 55358 kr.
+2024-5-8 Telephone Number: 0756615826 Salary: 35679 kr.
+1994-5-30 Telephone Number: 0784259779 Salary: 42353 kr.
+1980-2-2 Telephone Number: 0763874431 Salary: 42348 kr.
+1963-2-23 Telephone Number: 0748169880 Salary: 27014 kr.
+1984-6-21 Telephone Number: 0740954672 Salary: 44546 kr.
+1986-9-13 Telephone Number: 0751238522 Salary: 63498 kr.
+2024-9-31 Telephone Number: 0797229221 Salary: 47445 kr.
+2020-12-9 Telephone Number: 0742126177 Salary: 31658 kr.
+1969-11-24 Telephone Number: 0747511645 Salary: 33408 kr.
+2023-12-7 Telephone Number: 0762450713 Salary: 33449 kr.
+1961-11-23 Telephone Number: 0715233537 Salary: 49614 kr.
+1992-11-31 Telephone Number: 0799309772 Salary: 51530 kr.
+1993-9-6 Telephone Number: 0740295754 Salary: 66448 kr.
+2017-12-29 Telephone Number: 0780328926 Salary: 54955 kr.
+1991-8-29 Telephone Number: 0720288612 Salary: 66576 kr.
+2000-2-20 Telephone Number: 0783969738 Salary: 54474 kr.
+1999-12-18 Telephone Number: 0721967189 Salary: 57848 kr.
+1985-2-27 Telephone Number: 0755157188 Salary: 49359 kr.
+1965-12-24 Telephone Number: 074476408 Salary: 64699 kr.
+1989-4-17 Telephone Number: 072147397 Salary: 62300 kr.
+1989-11-9 Telephone Number: 0724287753 Salary: 56366 kr.
+2000-10-21 Telephone Number: 0714427288 Salary: 55190 kr.
+1961-8-16 Telephone Number: 0791889216 Salary: 62355 kr.
+2018-2-22 Telephone Number: 0775602599 Salary: 30769 kr.
+1970-12-2 Telephone Number: 0715028740 Salary: 62179 kr.
+2021-12-20 Telephone Number: 0749787316 Salary: 27936 kr.
+2006-9-15 Telephone Number: 0756127945 Salary: 38372 kr.
+2002-10-19 Telephone Number: 0727866250 Salary: 64316 kr.
+2023-1-5 Telephone Number: 0711048806 Salary: 66357 kr.
+1993-8-27 Telephone Number: 0721885830 Salary: 46443 kr.
+1999-8-23 Telephone Number: 0761714843 Salary: 58585 kr.
+1968-8-11 Telephone Number: 0765271264 Salary: 63974 kr.
+2015-6-27 Telephone Number: 0790477007 Salary: 55591 kr.
+2018-12-18 Telephone Number: 0794918862 Salary: 51154 kr.
+1980-9-30 Telephone Number: 0764201537 Salary: 42829 kr.
+2003-2-13 Telephone Number: 0772630529 Salary: 45327 kr.
+2004-5-8 Telephone Number: 0790783843 Salary: 54457 kr.
+1962-11-30 Telephone Number: 0719815941 Salary: 42743 kr.
+2025-6-14 Telephone Number: 0730413452 Salary: 49913 kr.
+1971-12-24 Telephone Number: 0745671866 Salary: 29007 kr.
+1995-7-24 Telephone Number: 0763995787 Salary: 39520 kr.
+2016-1-4 Telephone Number: 077755183 Salary: 45827 kr.
+2009-9-9 Telephone Number: 077556735 Salary: 37274 kr.
+1973-8-22 Telephone Number: 0750406357 Salary: 44942 kr.
+2003-9-8 Telephone Number: 0735406482 Salary: 66047 kr.
+2009-10-15 Telephone Number: 0774076442 Salary: 36098 kr.
+1996-12-19 Telephone Number: 0777824127 Salary: 52999 kr.
+2000-8-21 Telephone Number: 0733297875 Salary: 48529 kr.
+1996-5-28 Telephone Number: 0777860378 Salary: 25967 kr.
+1996-9-18 Telephone Number: 0786665361 Salary: 37600 kr.
+1964-10-12 Telephone Number: 0783671239 Salary: 32882 kr.
+1962-8-14 Telephone Number: 075417990 Salary: 29925 kr.
+2005-1-2 Telephone Number: 0770032284 Salary: 40953 kr.
+1984-8-5 Telephone Number: 0722510148 Salary: 47921 kr.
+1966-12-5 Telephone Number: 0798094884 Salary: 60999 kr.
+1976-3-30 Telephone Number: 0788711870 Salary: 51920 kr.
+2022-8-16 Telephone Number: 0754098949 Salary: 27230 kr.
+1981-5-17 Telephone Number: 0721386720 Salary: 64713 kr.
+1966-7-26 Telephone Number: 0744030340 Salary: 57053 kr.
+1986-12-13 Telephone Number: 0743067198 Salary: 58235 kr.
+2012-4-27 Telephone Number: 0745796456 Salary: 42710 kr.
+1962-4-27 Telephone Number: 0726506849 Salary: 53319 kr.
+1990-11-16 Telephone Number: 0737394474 Salary: 44380 kr.
+2003-8-19 Telephone Number: 0789069523 Salary: 52585 kr.
+1989-6-24 Telephone Number: 0778079864 Salary: 39635 kr.
+2002-10-4 Telephone Number: 0718467793 Salary: 57277 kr.
+1986-3-4 Telephone Number: 0739336880 Salary: 65097 kr.
+1996-7-19 Telephone Number: 073143875 Salary: 35612 kr.
+1983-6-23 Telephone Number: 0778449147 Salary: 35713 kr.
+1967-12-6 Telephone Number: 0780970816 Salary: 48097 kr.
+1970-4-22 Telephone Number: 0754921324 Salary: 28320 kr.
+2012-5-30 Telephone Number: 0789223886 Salary: 42575 kr.
+1965-1-5 Telephone Number: 0789478223 Salary: 54093 kr.
+1982-3-25 Telephone Number: 0784529924 Salary: 39046 kr.
+1980-3-14 Telephone Number: 077744926 Salary: 39747 kr.
+2018-6-30 Telephone Number: 0724156046 Salary: 59756 kr.
+2006-9-2 Telephone Number: 0742181453 Salary: 27203 kr.
+1984-10-10 Telephone Number: 0737771007 Salary: 46605 kr.
+1969-2-28 Telephone Number: 0752912706 Salary: 41238 kr.
+2024-7-14 Telephone Number: 0732738148 Salary: 53656 kr.
+1971-6-11 Telephone Number: 0782574631 Salary: 54569 kr.
+1963-11-12 Telephone Number: 0734925570 Salary: 34918 kr.
+2016-11-16 Telephone Number: 0764320231 Salary: 37133 kr.
+2010-12-29 Telephone Number: 0772607383 Salary: 61406 kr.
+1982-3-29 Telephone Number: 0733135265 Salary: 48301 kr.
+1964-6-7 Telephone Number: 0722752015 Salary: 54777 kr.
+1992-8-24 Telephone Number: 0746357285 Salary: 26206 kr.
+2002-12-19 Telephone Number: 0799134941 Salary: 42282 kr.
+1969-9-28 Telephone Number: 0742839389 Salary: 57790 kr.
+1990-1-9 Telephone Number: 0720371469 Salary: 61674 kr.
+1980-12-18 Telephone Number: 0774930642 Salary: 30134 kr.
+2016-6-8 Telephone Number: 0736050362 Salary: 44862 kr.
+2015-3-28 Telephone Number: 0742050078 Salary: 32545 kr.
+2011-1-26 Telephone Number: 0751383976 Salary: 31989 kr.
+2019-6-28 Telephone Number: 0768114151 Salary: 63256 kr.
+2018-9-18 Telephone Number: 0798710360 Salary: 45122 kr.
+1969-2-27 Telephone Number: 0771755204 Salary: 52788 kr.
+1975-7-18 Telephone Number: 0789134796 Salary: 56663 kr.
+1963-1-24 Telephone Number: 0722769548 Salary: 66228 kr.
+2013-8-22 Telephone Number: 073743155 Salary: 26759 kr.
+1974-7-22 Telephone Number: 07499888 Salary: 29628 kr.
+2018-4-17 Telephone Number: 0773129499 Salary: 29581 kr.
+1963-4-22 Telephone Number: 0730141483 Salary: 30886 kr.
+1989-7-18 Telephone Number: 0751240804 Salary: 37087 kr.
+2001-3-24 Telephone Number: 0776831554 Salary: 37087 kr.
+1988-7-10 Telephone Number: 0727350393 Salary: 60447 kr.
+1986-2-20 Telephone Number: 07715522 Salary: 37260 kr.
+1994-12-24 Telephone Number: 0783738447 Salary: 53141 kr.
+1991-9-4 Telephone Number: 0790173297 Salary: 54320 kr.
+2005-6-25 Telephone Number: 0799605759 Salary: 48175 kr.
+1965-10-3 Telephone Number: 0786537934 Salary: 59232 kr.
+2015-7-12 Telephone Number: 079910748 Salary: 41027 kr.
+1996-4-20 Telephone Number: 0728763827 Salary: 28636 kr.
+1973-6-15 Telephone Number: 0745047270 Salary: 36632 kr.
+2003-7-23 Telephone Number: 0787731269 Salary: 49732 kr.
+1965-12-8 Telephone Number: 0730232226 Salary: 29128 kr.
+1979-12-27 Telephone Number: 0729649971 Salary: 28745 kr.
+1966-8-10 Telephone Number: 0796619890 Salary: 27150 kr.
+1965-9-14 Telephone Number: 0769099926 Salary: 62732 kr.
+2005-7-11 Telephone Number: 0716789612 Salary: 64510 kr.
+1983-4-7 Telephone Number: 0712690355 Salary: 65814 kr.
+2017-2-17 Telephone Number: 07462419 Salary: 34376 kr.
+1963-7-3 Telephone Number: 0792504997 Salary: 57571 kr.
+1997-2-13 Telephone Number: 0780000723 Salary: 48740 kr.
+1987-2-9 Telephone Number: 0778126531 Salary: 40500 kr.
+1961-10-23 Telephone Number: 0745155792 Salary: 61862 kr.
+1967-2-14 Telephone Number: 0791097892 Salary: 53252 kr.
+1990-10-20 Telephone Number: 071185803 Salary: 64387 kr.
+1976-5-11 Telephone Number: 0725500480 Salary: 54087 kr.
+2000-7-3 Telephone Number: 0780220131 Salary: 56311 kr.
+2008-3-7 Telephone Number: 0772537354 Salary: 53457 kr.
+2021-4-27 Telephone Number: 0721753620 Salary: 36670 kr.
+2017-3-16 Telephone Number: 0720545075 Salary: 42308 kr.
+2018-7-27 Telephone Number: 071390467 Salary: 52515 kr.
+1975-6-22 Telephone Number: 0739974672 Salary: 33979 kr.
+1977-5-4 Telephone Number: 0757206103 Salary: 27041 kr.
+1997-8-7 Telephone Number: 0796146768 Salary: 66141 kr.
+1996-4-6 Telephone Number: 0777954906 Salary: 29871 kr.
+1963-6-25 Telephone Number: 0761877038 Salary: 34143 kr.
+2014-2-25 Telephone Number: 0747231622 Salary: 66057 kr.
+1988-9-10 Telephone Number: 0723577369 Salary: 56165 kr.
+1983-4-18 Telephone Number: 0710818037 Salary: 48757 kr.
+1993-6-18 Telephone Number: 074669136 Salary: 47580 kr.
+1983-1-26 Telephone Number: 0761848481 Salary: 57502 kr.
+2009-4-7 Telephone Number: 0730914497 Salary: 31597 kr.
+2008-1-4 Telephone Number: 0738956101 Salary: 44256 kr.
+1983-5-16 Telephone Number: 0765708226 Salary: 31401 kr.
+1962-6-22 Telephone Number: 0757876561 Salary: 61567 kr.
+1991-8-7 Telephone Number: 0776917905 Salary: 28195 kr.
+1987-7-27 Telephone Number: 0756559558 Salary: 63387 kr.
+1961-9-2 Telephone Number: 078268176 Salary: 60408 kr.
+1983-9-28 Telephone Number: 0719956494 Salary: 52883 kr.
+2003-1-21 Telephone Number: 0710601548 Salary: 58614 kr.
+1999-2-17 Telephone Number: 0763412416 Salary: 41537 kr.
+1992-3-26 Telephone Number: 074992923 Salary: 59493 kr.
+2016-7-20 Telephone Number: 0725902115 Salary: 26321 kr.
+2009-1-12 Telephone Number: 0759338915 Salary: 48647 kr.
+1963-1-13 Telephone Number: 0746936719 Salary: 65782 kr.
+1982-3-2 Telephone Number: 0741690207 Salary: 30770 kr.
+2002-12-1 Telephone Number: 0747363380 Salary: 62758 kr.
+1967-2-22 Telephone Number: 0791561817 Salary: 56978 kr.
+2000-5-24 Telephone Number: 0785834379 Salary: 46614 kr.
+1993-5-14 Telephone Number: 0719371365 Salary: 45301 kr.
+2010-6-14 Telephone Number: 0733593307 Salary: 55482 kr.
+1977-6-11 Telephone Number: 0793960461 Salary: 62784 kr.
+2023-5-5 Telephone Number: 0772387612 Salary: 55899 kr.
+2020-4-25 Telephone Number: 0719103271 Salary: 27518 kr.
+1966-9-9 Telephone Number: 0728553968 Salary: 30464 kr.
+2009-8-27 Telephone Number: 0787565288 Salary: 48501 kr.
+1982-9-20 Telephone Number: 0773232916 Salary: 63044 kr.
+1967-6-13 Telephone Number: 0761523624 Salary: 63517 kr.
+2018-1-23 Telephone Number: 0739662866 Salary: 65546 kr.
+1977-4-16 Telephone Number: 0782188759 Salary: 53570 kr.
+1964-6-27 Telephone Number: 0786802666 Salary: 47976 kr.
+1996-9-11 Telephone Number: 07780894 Salary: 29506 kr.
+1982-7-29 Telephone Number: 0710172546 Salary: 38456 kr.
+2020-6-14 Telephone Number: 0734427866 Salary: 59818 kr.
+1968-11-17 Telephone Number: 079632155 Salary: 42959 kr.
+1986-3-28 Telephone Number: 0741195495 Salary: 61546 kr.
+1981-5-22 Telephone Number: 0746492615 Salary: 39641 kr.
+1993-3-19 Telephone Number: 0730775827 Salary: 47400 kr.
+1995-3-12 Telephone Number: 0793358847 Salary: 49288 kr.
+2000-5-5 Telephone Number: 0754098798 Salary: 30654 kr.
+1978-5-24 Telephone Number: 0716704791 Salary: 59182 kr.
+2014-8-24 Telephone Number: 0764364118 Salary: 60908 kr.
+1967-5-2 Telephone Number: 0759494591 Salary: 62559 kr.
+1977-6-7 Telephone Number: 072091833 Salary: 31999 kr.
+1993-8-7 Telephone Number: 0767087991 Salary: 41372 kr.
+2008-1-18 Telephone Number: 0711453582 Salary: 42315 kr.
+2019-12-24 Telephone Number: 0739930305 Salary: 47577 kr.
+2015-3-8 Telephone Number: 0748375637 Salary: 60660 kr.
+1972-6-14 Telephone Number: 0799661903 Salary: 27121 kr.
+1976-11-28 Telephone Number: 0742016047 Salary: 53928 kr.
+1975-6-7 Telephone Number: 0727636724 Salary: 65943 kr.
+2021-12-8 Telephone Number: 0739840429 Salary: 42931 kr.
+2008-1-30 Telephone Number: 0715573825 Salary: 39043 kr.
+1985-10-12 Telephone Number: 0717595568 Salary: 50406 kr.
+1986-12-1 Telephone Number: 0754153538 Salary: 31016 kr.
+2024-8-9 Telephone Number: 074260820 Salary: 28622 kr.
+2025-7-18 Telephone Number: 0756595062 Salary: 32923 kr.
+2018-6-28 Telephone Number: 0739111003 Salary: 58184 kr.
+1998-10-2 Telephone Number: 0758213295 Salary: 26238 kr.
+1988-10-6 Telephone Number: 0794229591 Salary: 38229 kr.
+2016-9-4 Telephone Number: 0770059485 Salary: 43269 kr.
+2011-12-4 Telephone Number: 077359349 Salary: 46379 kr.
+1985-1-15 Telephone Number: 0773225243 Salary: 33812 kr.
+1984-8-25 Telephone Number: 0743372592 Salary: 45078 kr.
+1992-4-30 Telephone Number: 0781268316 Salary: 40835 kr.
+2002-6-20 Telephone Number: 0749701876 Salary: 34330 kr.
+1964-11-29 Telephone Number: 0740348265 Salary: 30272 kr.
+2008-10-27 Telephone Number: 0773922513 Salary: 27761 kr.
+2004-9-17 Telephone Number: 0781701573 Salary: 46306 kr.
+1997-6-5 Telephone Number: 0747762773 Salary: 34467 kr.
+2019-12-21 Telephone Number: 0748510936 Salary: 46835 kr.
+1979-6-9 Telephone Number: 078889491 Salary: 43265 kr.
+1983-1-31 Telephone Number: 0731318073 Salary: 57820 kr.
+2002-1-15 Telephone Number: 0772942692 Salary: 47115 kr.
+1978-12-25 Telephone Number: 0712990628 Salary: 49298 kr.
+1986-7-24 Telephone Number: 0796851573 Salary: 26223 kr.
+1995-12-2 Telephone Number: 0728792213 Salary: 40639 kr.
+2015-10-25 Telephone Number: 0799147181 Salary: 46162 kr.
+1975-6-5 Telephone Number: 0730042511 Salary: 52859 kr.
+2022-1-10 Telephone Number: 0752798288 Salary: 31576 kr.
+1991-10-24 Telephone Number: 0724727256 Salary: 53062 kr.
+2024-11-19 Telephone Number: 0715352730 Salary: 33277 kr.
+1979-3-1 Telephone Number: 0786573218 Salary: 29481 kr.
+1975-5-11 Telephone Number: 0754495711 Salary: 52797 kr.
+1974-1-11 Telephone Number: 0739701131 Salary: 35632 kr.
+1984-7-29 Telephone Number: 074480713 Salary: 55472 kr.
+1986-4-22 Telephone Number: 0760982812 Salary: 46295 kr.
+1962-9-13 Telephone Number: 0710501549 Salary: 64518 kr.
+2022-1-9 Telephone Number: 071442309 Salary: 43774 kr.
+1967-6-22 Telephone Number: 0789522284 Salary: 27396 kr.
+1987-11-20 Telephone Number: 0724052618 Salary: 44147 kr.
+2016-6-3 Telephone Number: 0733243960 Salary: 63030 kr.
+2020-2-22 Telephone Number: 0733499589 Salary: 42285 kr.
+2021-6-4 Telephone Number: 0772954816 Salary: 54649 kr.
+2012-9-15 Telephone Number: 0737135407 Salary: 30524 kr.
+1979-7-29 Telephone Number: 078487940 Salary: 54674 kr.
+1995-2-24 Telephone Number: 0711461123 Salary: 35482 kr.
+1998-8-22 Telephone Number: 0711213221 Salary: 27809 kr.
+1978-3-21 Telephone Number: 0748908289 Salary: 55045 kr.
+1974-1-17 Telephone Number: 0751048303 Salary: 63566 kr.
+1979-7-24 Telephone Number: 0752094361 Salary: 47408 kr.
+1998-6-2 Telephone Number: 0772327110 Salary: 51612 kr.
+1987-1-18 Telephone Number: 0711577614 Salary: 37189 kr.
+2022-11-30 Telephone Number: 0775768410 Salary: 50437 kr.
+2000-7-4 Telephone Number: 0715720062 Salary: 48222 kr.
+2009-2-20 Telephone Number: 0721807408 Salary: 47896 kr.
+2019-3-28 Telephone Number: 0772679057 Salary: 29083 kr.
+2009-8-16 Telephone Number: 0792568961 Salary: 55646 kr.
+1984-10-30 Telephone Number: 0782699827 Salary: 49758 kr.
+1985-10-8 Telephone Number: 0769463692 Salary: 47508 kr.
+1986-9-27 Telephone Number: 0749494980 Salary: 58080 kr.
+1989-11-30 Telephone Number: 0754781358 Salary: 56548 kr.
+2023-12-18 Telephone Number: 0711108164 Salary: 60320 kr.
+1965-3-20 Telephone Number: 0788056197 Salary: 47346 kr.
+1990-11-25 Telephone Number: 0759615087 Salary: 60297 kr.
+2002-4-25 Telephone Number: 0751015221 Salary: 37496 kr.
+1974-10-6 Telephone Number: 0794476316 Salary: 35935 kr.
+2013-3-6 Telephone Number: 0783534053 Salary: 63122 kr.
+2013-12-3 Telephone Number: 0763295266 Salary: 36438 kr.
+2017-4-16 Telephone Number: 0732469917 Salary: 42694 kr.
+2011-12-17 Telephone Number: 0715936676 Salary: 39668 kr.
+2007-11-17 Telephone Number: 0756084038 Salary: 63203 kr.
+2017-3-7 Telephone Number: 0771023440 Salary: 34051 kr.
+2018-11-29 Telephone Number: 079884967 Salary: 60018 kr.
+2000-2-9 Telephone Number: 0738162859 Salary: 30095 kr.
+1976-4-2 Telephone Number: 0741311684 Salary: 47101 kr.
+2019-8-21 Telephone Number: 0783080128 Salary: 33829 kr.
+1988-6-5 Telephone Number: 0737234502 Salary: 57696 kr.
+2010-12-20 Telephone Number: 0777192036 Salary: 37698 kr.
+1987-11-21 Telephone Number: 0761599372 Salary: 50811 kr.
+2000-8-27 Telephone Number: 0756885382 Salary: 61659 kr.
+2020-11-23 Telephone Number: 0722805999 Salary: 53416 kr.
+2009-9-22 Telephone Number: 0782532435 Salary: 33781 kr.
+2003-5-9 Telephone Number: 0749033539 Salary: 42182 kr.
+1982-4-11 Telephone Number: 0742552574 Salary: 42926 kr.
+1994-4-25 Telephone Number: 0772463698 Salary: 49049 kr.
+1976-12-16 Telephone Number: 0785900416 Salary: 44456 kr.
+1991-12-10 Telephone Number: 0723265937 Salary: 61953 kr.
+1974-3-5 Telephone Number: 0787323534 Salary: 53985 kr.
+1996-12-22 Telephone Number: 0774682301 Salary: 54653 kr.
+1974-1-7 Telephone Number: 0786497849 Salary: 51417 kr.
+2020-5-25 Telephone Number: 0720271442 Salary: 52901 kr.
+2019-2-25 Telephone Number: 0785438330 Salary: 33829 kr.
+1971-3-15 Telephone Number: 0782346660 Salary: 63838 kr.
+2010-4-28 Telephone Number: 0711931982 Salary: 51468 kr.
+2014-9-12 Telephone Number: 0771187576 Salary: 44795 kr.
+1982-12-2 Telephone Number: 0741496993 Salary: 51695 kr.
+1970-12-29 Telephone Number: 0732348350 Salary: 40896 kr.
+1985-11-14 Telephone Number: 0730696388 Salary: 38269 kr.
+1975-7-4 Telephone Number: 0724268610 Salary: 52476 kr.
+1964-7-9 Telephone Number: 0722499273 Salary: 52769 kr.
+1974-8-4 Telephone Number: 0770670141 Salary: 41298 kr.
+1988-3-29 Telephone Number: 0794572957 Salary: 41309 kr.
+1986-12-12 Telephone Number: 0787459718 Salary: 36451 kr.
+1999-3-23 Telephone Number: 0796502578 Salary: 29198 kr.
+1975-5-5 Telephone Number: 0717934618 Salary: 60318 kr.
+1975-8-14 Telephone Number: 0757381341 Salary: 27925 kr.
+1980-8-24 Telephone Number: 0744194353 Salary: 43822 kr.
+1961-10-28 Telephone Number: 0794216993 Salary: 38330 kr.
+1983-11-25 Telephone Number: 0718303237 Salary: 57534 kr.
+2017-5-28 Telephone Number: 0750193643 Salary: 43066 kr.
+2017-5-23 Telephone Number: 0760740622 Salary: 53252 kr.
+1980-6-5 Telephone Number: 0783860287 Salary: 31480 kr.
+1967-8-25 Telephone Number: 0763147375 Salary: 49936 kr.
+1964-9-5 Telephone Number: 0792448543 Salary: 50591 kr.
+2004-1-19 Telephone Number: 0759770150 Salary: 58914 kr.
+1978-12-2 Telephone Number: 0719224688 Salary: 55528 kr.
+2005-9-29 Telephone Number: 0770073023 Salary: 48185 kr.
+1962-4-2 Telephone Number: 0783340507 Salary: 34111 kr.
+1964-9-26 Telephone Number: 0781795527 Salary: 60066 kr.
+2007-4-1 Telephone Number: 076161110 Salary: 37345 kr.
+1976-6-21 Telephone Number: 0727665924 Salary: 52343 kr.
+2005-8-13 Telephone Number: 0748426043 Salary: 37762 kr.
+1966-7-8 Telephone Number: 0793720149 Salary: 31952 kr.
+2024-7-11 Telephone Number: 0733565433 Salary: 59388 kr.
+2017-12-10 Telephone Number: 0786734176 Salary: 54024 kr.
+2002-2-13 Telephone Number: 0712580477 Salary: 52861 kr.
+1979-12-27 Telephone Number: 0731966822 Salary: 41229 kr.
+2017-4-29 Telephone Number: 0731455326 Salary: 59782 kr.
+1976-7-3 Telephone Number: 0789860392 Salary: 36507 kr.
+1969-10-9 Telephone Number: 0732255046 Salary: 42053 kr.
+2018-5-18 Telephone Number: 0786499291 Salary: 66016 kr.
+1980-1-2 Telephone Number: 0750855026 Salary: 31860 kr.
+1997-9-15 Telephone Number: 0782735724 Salary: 35796 kr.
+1983-1-28 Telephone Number: 0747425548 Salary: 36454 kr.
+1982-8-7 Telephone Number: 0741523370 Salary: 41930 kr.
+2012-7-12 Telephone Number: 077959400 Salary: 61457 kr.
+2012-8-23 Telephone Number: 0743033209 Salary: 55017 kr.
+2001-1-19 Telephone Number: 076690219 Salary: 45261 kr.
+2008-7-22 Telephone Number: 0788752118 Salary: 65210 kr.
+2013-11-26 Telephone Number: 0798427474 Salary: 34188 kr.
+1963-5-21 Telephone Number: 0795488019 Salary: 36789 kr.
+2021-1-18 Telephone Number: 0777665831 Salary: 55512 kr.
+1971-6-14 Telephone Number: 0719842103 Salary: 59138 kr.
+1991-9-15 Telephone Number: 0766659611 Salary: 52566 kr.
+1969-11-1 Telephone Number: 0755387384 Salary: 45427 kr.
+2018-5-15 Telephone Number: 0779147530 Salary: 31943 kr.
+1979-5-21 Telephone Number: 0785955440 Salary: 51450 kr.
+1999-9-22 Telephone Number: 079541291 Salary: 55118 kr.
+1965-5-15 Telephone Number: 0756833105 Salary: 46917 kr.
+2014-7-21 Telephone Number: 0761439201 Salary: 29427 kr.
+1969-3-29 Telephone Number: 0784375028 Salary: 40395 kr.
+1984-5-22 Telephone Number: 074390530 Salary: 51535 kr.
+1998-2-3 Telephone Number: 0776924723 Salary: 28587 kr.
+2005-11-15 Telephone Number: 0716827708 Salary: 32067 kr.
+1994-4-22 Telephone Number: 0794697951 Salary: 35400 kr.
+1997-7-14 Telephone Number: 0776724686 Salary: 37533 kr.
+1985-2-22 Telephone Number: 0762421565 Salary: 39340 kr.
+1964-10-25 Telephone Number: 0723365607 Salary: 65827 kr.
+2009-4-11 Telephone Number: 0740354755 Salary: 54052 kr.
+1968-5-14 Telephone Number: 0764966478 Salary: 50308 kr.
+1973-3-1 Telephone Number: 071477086 Salary: 32104 kr.
+1967-3-11 Telephone Number: 0711943464 Salary: 51535 kr.
+2015-2-15 Telephone Number: 0795049938 Salary: 43232 kr.
+2022-12-1 Telephone Number: 0796337822 Salary: 66386 kr.
+1988-11-15 Telephone Number: 0759698986 Salary: 45873 kr.
+1980-9-31 Telephone Number: 0799074228 Salary: 36171 kr.
+2024-5-11 Telephone Number: 0788191651 Salary: 48800 kr.
+1991-4-13 Telephone Number: 0760944090 Salary: 54212 kr.
+2024-9-25 Telephone Number: 0717073857 Salary: 61347 kr.
+1977-12-8 Telephone Number: 0745878592 Salary: 65638 kr.
+1976-12-7 Telephone Number: 0788476212 Salary: 50180 kr.
+1988-11-25 Telephone Number: 0759430222 Salary: 55053 kr.
+1975-11-22 Telephone Number: 07205178 Salary: 65726 kr.
+2007-7-21 Telephone Number: 0787451573 Salary: 43627 kr.
+2001-11-8 Telephone Number: 0760515819 Salary: 65548 kr.
+2024-9-18 Telephone Number: 073594103 Salary: 30631 kr.
+2011-2-14 Telephone Number: 072848683 Salary: 40608 kr.
+1976-5-25 Telephone Number: 0726107100 Salary: 55721 kr.
+1962-9-24 Telephone Number: 0795745349 Salary: 33095 kr.
+2021-5-24 Telephone Number: 0768971463 Salary: 40456 kr.
+1988-2-19 Telephone Number: 0726889254 Salary: 63331 kr.
+1994-10-18 Telephone Number: 0796938644 Salary: 46676 kr.
+1983-7-27 Telephone Number: 0715816923 Salary: 53013 kr.
+2018-1-8 Telephone Number: 0733660500 Salary: 61984 kr.
+2020-6-5 Telephone Number: 0755688672 Salary: 26339 kr.
+1990-9-4 Telephone Number: 0794700452 Salary: 38635 kr.
+1963-8-2 Telephone Number: 0734288433 Salary: 36446 kr.
+1981-10-10 Telephone Number: 0788533305 Salary: 34582 kr.
+2019-6-25 Telephone Number: 0792143705 Salary: 34269 kr.
+2004-4-11 Telephone Number: 0797205298 Salary: 28111 kr.
+1995-1-18 Telephone Number: 0740635077 Salary: 47576 kr.
+1962-10-18 Telephone Number: 0770485132 Salary: 65750 kr.
+1987-9-7 Telephone Number: 0754829141 Salary: 61601 kr.
+2012-2-25 Telephone Number: 0732251076 Salary: 48764 kr.
+1973-12-25 Telephone Number: 0739460355 Salary: 33501 kr.
+1983-6-14 Telephone Number: 0752501346 Salary: 30248 kr.
+2006-9-12 Telephone Number: 0727260600 Salary: 46586 kr.
+1979-10-21 Telephone Number: 0712529954 Salary: 59344 kr.
+2008-12-27 Telephone Number: 0737255876 Salary: 53255 kr.
+2022-5-3 Telephone Number: 0722075948 Salary: 53506 kr.
+1963-8-22 Telephone Number: 0797597031 Salary: 35126 kr.
+1981-12-7 Telephone Number: 076040273 Salary: 42674 kr.
+2018-11-11 Telephone Number: 0719156834 Salary: 30612 kr.
+2006-2-6 Telephone Number: 0792894336 Salary: 31240 kr.
+2011-2-6 Telephone Number: 079013024 Salary: 52007 kr.
+1972-11-29 Telephone Number: 0718212703 Salary: 30231 kr.
+1997-1-1 Telephone Number: 0798862686 Salary: 33867 kr.
+1992-1-12 Telephone Number: 0723696946 Salary: 66245 kr.
+2005-4-1 Telephone Number: 0764506162 Salary: 41615 kr.
+1971-8-18 Telephone Number: 0736278612 Salary: 34693 kr.
+2007-7-11 Telephone Number: 0756240292 Salary: 52833 kr.
+1963-5-31 Telephone Number: 0762869308 Salary: 28172 kr.
+1974-8-23 Telephone Number: 0794064885 Salary: 50808 kr.
+1961-4-17 Telephone Number: 0726350034 Salary: 54793 kr.
+1986-4-8 Telephone Number: 0799099351 Salary: 29714 kr.
+1984-11-14 Telephone Number: 0797557974 Salary: 40449 kr.
+2014-2-14 Telephone Number: 0796907374 Salary: 28196 kr.
+1962-4-7 Telephone Number: 0779246974 Salary: 43969 kr.
+1972-5-23 Telephone Number: 0798227666 Salary: 28322 kr.
+1967-8-20 Telephone Number: 0761990605 Salary: 56699 kr.
+2006-4-12 Telephone Number: 0716912221 Salary: 56384 kr.
+2023-9-22 Telephone Number: 0772299235 Salary: 31563 kr.
+2025-1-25 Telephone Number: 0747996422 Salary: 52376 kr.
+2007-11-11 Telephone Number: 0751182535 Salary: 33641 kr.
+1963-2-23 Telephone Number: 0795396765 Salary: 64168 kr.
+1999-10-21 Telephone Number: 0751166356 Salary: 58812 kr.
+2003-3-3 Telephone Number: 0798693318 Salary: 50230 kr.
+2005-11-2 Telephone Number: 0793340939 Salary: 33930 kr.
+1985-10-9 Telephone Number: 0772059118 Salary: 53771 kr.
+2008-7-3 Telephone Number: 0738160618 Salary: 45428 kr.
+1965-6-29 Telephone Number: 0791214033 Salary: 36442 kr.
+1997-10-27 Telephone Number: 0757031657 Salary: 59436 kr.
+2014-6-7 Telephone Number: 0772185093 Salary: 39433 kr.
+1981-2-20 Telephone Number: 0741624551 Salary: 29355 kr.
+2016-7-22 Telephone Number: 0799840178 Salary: 29048 kr.
+2006-9-28 Telephone Number: 077552656 Salary: 63152 kr.
+1993-3-4 Telephone Number: 0726131383 Salary: 33642 kr.
+1977-4-24 Telephone Number: 0774605693 Salary: 28192 kr.
+1988-11-6 Telephone Number: 0754554559 Salary: 55261 kr.
+2004-3-24 Telephone Number: 0780962024 Salary: 63302 kr.
+1976-7-31 Telephone Number: 0715631487 Salary: 26247 kr.
+2016-1-11 Telephone Number: 0790387847 Salary: 32855 kr.
+1970-5-1 Telephone Number: 0770692186 Salary: 54592 kr.
+2017-8-11 Telephone Number: 0713837240 Salary: 62258 kr.
+1989-1-17 Telephone Number: 0730631072 Salary: 29550 kr.
+2001-5-12 Telephone Number: 077379416 Salary: 57253 kr.
+1968-4-6 Telephone Number: 0760698161 Salary: 34043 kr.
+1969-8-7 Telephone Number: 0752096439 Salary: 47531 kr.
+2021-2-27 Telephone Number: 0750144574 Salary: 48208 kr.
+2015-7-30 Telephone Number: 0726425854 Salary: 28176 kr.
+2017-9-24 Telephone Number: 0740361226 Salary: 50119 kr.
+2001-6-5 Telephone Number: 0763091267 Salary: 41452 kr.
+2017-1-24 Telephone Number: 0731035021 Salary: 55440 kr.
+1968-12-6 Telephone Number: 0739804635 Salary: 58086 kr.
+2008-5-28 Telephone Number: 0770114372 Salary: 48896 kr.
+2015-10-8 Telephone Number: 0791684786 Salary: 36155 kr.
+2018-3-11 Telephone Number: 0799654205 Salary: 60609 kr.
+2016-5-23 Telephone Number: 0792977596 Salary: 61250 kr.
+1982-8-18 Telephone Number: 0790841643 Salary: 58244 kr.
+1976-3-8 Telephone Number: 0733156903 Salary: 29117 kr.
+1991-8-18 Telephone Number: 0792940508 Salary: 55691 kr.
+2025-2-12 Telephone Number: 0787616856 Salary: 64450 kr.
+2014-7-19 Telephone Number: 0723102826 Salary: 55633 kr.
+2004-1-24 Telephone Number: 0743533573 Salary: 31802 kr.
+2010-4-12 Telephone Number: 0787856815 Salary: 54551 kr.
+2013-2-21 Telephone Number: 077486984 Salary: 30573 kr.
+1968-3-19 Telephone Number: 0798785468 Salary: 48646 kr.
+1989-4-25 Telephone Number: 0771315041 Salary: 48964 kr.
+1969-3-16 Telephone Number: 0790961124 Salary: 31210 kr.
+2019-5-23 Telephone Number: 077457449 Salary: 27495 kr.
+1969-2-24 Telephone Number: 0784916258 Salary: 34418 kr.
+2014-2-13 Telephone Number: 0773582217 Salary: 44717 kr.
+1993-9-8 Telephone Number: 0733437613 Salary: 43465 kr.
+2023-9-19 Telephone Number: 0730235800 Salary: 59033 kr.
+1961-11-30 Telephone Number: 0740711482 Salary: 33754 kr.
+2018-8-15 Telephone Number: 0774089250 Salary: 28810 kr.
+2003-4-27 Telephone Number: 0731076057 Salary: 64357 kr.
+2005-4-23 Telephone Number: 075353453 Salary: 61201 kr.
+2025-6-8 Telephone Number: 0720918921 Salary: 29601 kr.
+2016-2-4 Telephone Number: 0731204189 Salary: 38450 kr.
+2025-8-24 Telephone Number: 0723472707 Salary: 28936 kr.
+1997-12-13 Telephone Number: 0740502323 Salary: 27631 kr.
+1992-11-5 Telephone Number: 071101238 Salary: 58864 kr.
+1975-4-11 Telephone Number: 079438640 Salary: 64600 kr.
+1996-10-10 Telephone Number: 072135827 Salary: 57710 kr.
+1970-11-30 Telephone Number: 0736512030 Salary: 53827 kr.
+1969-5-19 Telephone Number: 0753733496 Salary: 66309 kr.
+1979-12-19 Telephone Number: 0789811114 Salary: 56942 kr.
+2001-12-5 Telephone Number: 0773214272 Salary: 52979 kr.
+1987-4-16 Telephone Number: 0744073688 Salary: 34873 kr.
+2009-4-27 Telephone Number: 0747835182 Salary: 53420 kr.
+2012-7-14 Telephone Number: 0711417755 Salary: 38559 kr.
+1972-6-21 Telephone Number: 0777227679 Salary: 36942 kr.
+1965-10-2 Telephone Number: 0732757803 Salary: 45271 kr.
+2012-6-9 Telephone Number: 0779329695 Salary: 58641 kr.
+2015-3-3 Telephone Number: 079338000 Salary: 29000 kr.
+1961-7-24 Telephone Number: 075461918 Salary: 44148 kr.
+1985-3-31 Telephone Number: 0760940173 Salary: 29915 kr.
+2003-11-19 Telephone Number: 0764421985 Salary: 32382 kr.
+2020-5-5 Telephone Number: 072381641 Salary: 60543 kr.
+1994-10-17 Telephone Number: 0710603700 Salary: 33328 kr.
+1985-1-17 Telephone Number: 0718941082 Salary: 33556 kr.
+2007-7-8 Telephone Number: 0744007609 Salary: 39521 kr.
+2002-10-15 Telephone Number: 0788187677 Salary: 27391 kr.
+1995-7-21 Telephone Number: 077723337 Salary: 36138 kr.
+1973-11-11 Telephone Number: 0766999464 Salary: 34733 kr.
+2023-6-8 Telephone Number: 0753474201 Salary: 39914 kr.
+2001-11-3 Telephone Number: 0722814211 Salary: 55010 kr.
+1981-10-23 Telephone Number: 07874799 Salary: 47660 kr.
+1984-3-6 Telephone Number: 074645204 Salary: 56836 kr.
+2015-4-12 Telephone Number: 079228957 Salary: 27582 kr.
+2018-2-6 Telephone Number: 0797212609 Salary: 48063 kr.
+1975-11-4 Telephone Number: 0750367414 Salary: 35762 kr.
+1976-9-17 Telephone Number: 0788599049 Salary: 43886 kr.
+2022-4-13 Telephone Number: 0750883399 Salary: 57842 kr.
+1970-1-22 Telephone Number: 0773858008 Salary: 65163 kr.
+1975-8-14 Telephone Number: 0716173693 Salary: 33581 kr.
+1987-1-22 Telephone Number: 0762521051 Salary: 54613 kr.
+1971-2-4 Telephone Number: 0756249378 Salary: 45621 kr.
+1964-12-1 Telephone Number: 0713312158 Salary: 66207 kr.
+1964-12-24 Telephone Number: 0773972871 Salary: 57457 kr.
+1976-4-10 Telephone Number: 0773744908 Salary: 53666 kr.
+1970-2-9 Telephone Number: 0715147878 Salary: 29580 kr.
+1985-5-24 Telephone Number: 072623527 Salary: 27185 kr.
+1981-7-1 Telephone Number: 071990018 Salary: 53607 kr.
+1997-12-18 Telephone Number: 0729576896 Salary: 47082 kr.
+1995-3-14 Telephone Number: 077504864 Salary: 36491 kr.
+1985-8-12 Telephone Number: 0795223473 Salary: 29166 kr.
+2022-6-4 Telephone Number: 0779075603 Salary: 31710 kr.
+2018-11-19 Telephone Number: 0788804553 Salary: 26692 kr.
+2011-8-4 Telephone Number: 0781306102 Salary: 37493 kr.
+1987-12-9 Telephone Number: 0785356194 Salary: 32629 kr.
+1972-3-13 Telephone Number: 0717380663 Salary: 33363 kr.
+2008-2-7 Telephone Number: 0792751685 Salary: 33793 kr.
+1978-1-18 Telephone Number: 0766705462 Salary: 47485 kr.
+1976-11-17 Telephone Number: 0769084104 Salary: 30418 kr.
+2017-3-21 Telephone Number: 0776517810 Salary: 43039 kr.
+1962-7-10 Telephone Number: 0714532592 Salary: 59232 kr.
+1973-9-20 Telephone Number: 0793928963 Salary: 25901 kr.
+1998-10-21 Telephone Number: 0788539137 Salary: 57372 kr.
+1979-4-5 Telephone Number: 0770258493 Salary: 25795 kr.
+2007-8-16 Telephone Number: 0745099922 Salary: 48036 kr.
+2006-1-13 Telephone Number: 074589387 Salary: 39570 kr.
+2020-3-3 Telephone Number: 0716344459 Salary: 58137 kr.
+2017-7-16 Telephone Number: 0781602089 Salary: 51449 kr.
+2005-9-30 Telephone Number: 0740246922 Salary: 44836 kr.
+1980-5-9 Telephone Number: 0758624016 Salary: 30171 kr.
+2013-3-1 Telephone Number: 0713009875 Salary: 31709 kr.
+1983-12-23 Telephone Number: 0747462558 Salary: 62391 kr.
+1970-8-16 Telephone Number: 0723916210 Salary: 34654 kr.
+1977-5-31 Telephone Number: 0742290652 Salary: 41023 kr.
+1992-1-21 Telephone Number: 0781608251 Salary: 34047 kr.
+2020-6-21 Telephone Number: 0760253537 Salary: 65473 kr.
+1984-5-25 Telephone Number: 0779983698 Salary: 65041 kr.
+2025-3-24 Telephone Number: 0776504784 Salary: 37621 kr.
+1974-12-30 Telephone Number: 0751169045 Salary: 29466 kr.
+2025-2-9 Telephone Number: 0760312913 Salary: 31658 kr.
+2016-3-13 Telephone Number: 0767127640 Salary: 49169 kr.
+1988-2-15 Telephone Number: 079273356 Salary: 63335 kr.
+1962-7-20 Telephone Number: 0742979045 Salary: 48575 kr.
+2021-4-1 Telephone Number: 0760393080 Salary: 64227 kr.
+2025-5-12 Telephone Number: 0759459162 Salary: 42231 kr.
+2005-7-8 Telephone Number: 0751078313 Salary: 51185 kr.
+2022-6-17 Telephone Number: 0712359296 Salary: 36258 kr.
+2025-2-19 Telephone Number: 0751353209 Salary: 35397 kr.
+2001-1-1 Telephone Number: 0749282129 Salary: 56438 kr.
+2023-5-22 Telephone Number: 0777785739 Salary: 27435 kr.
+1993-8-21 Telephone Number: 0712491032 Salary: 52542 kr.
+1983-5-31 Telephone Number: 0786725082 Salary: 42094 kr.
+2014-5-28 Telephone Number: 0747666502 Salary: 28937 kr.
+2021-6-17 Telephone Number: 0782004017 Salary: 35032 kr.
+1974-2-21 Telephone Number: 0796492478 Salary: 38231 kr.
+2003-3-20 Telephone Number: 0732984112 Salary: 43533 kr.
+1967-2-7 Telephone Number: 0783460819 Salary: 52240 kr.
+1970-6-3 Telephone Number: 07787152 Salary: 40582 kr.
+2010-9-6 Telephone Number: 0759202149 Salary: 38866 kr.
+1964-1-26 Telephone Number: 072142396 Salary: 26950 kr.
+1967-11-19 Telephone Number: 0731935829 Salary: 58125 kr.
+1988-12-27 Telephone Number: 0785177027 Salary: 46627 kr.
+1994-11-31 Telephone Number: 0721003248 Salary: 34910 kr.
+1975-9-15 Telephone Number: 0753690757 Salary: 56522 kr.
+1988-11-30 Telephone Number: 07442672 Salary: 52477 kr.
+2006-2-3 Telephone Number: 075301028 Salary: 62506 kr.
+2000-5-17 Telephone Number: 0772527701 Salary: 36029 kr.
+2001-1-8 Telephone Number: 0763951960 Salary: 56074 kr.
+1967-6-2 Telephone Number: 0760285441 Salary: 47297 kr.
+2012-4-2 Telephone Number: 073589102 Salary: 49912 kr.
+2013-6-17 Telephone Number: 0731207199 Salary: 41030 kr.
+1997-9-3 Telephone Number: 0712567299 Salary: 26611 kr.
+2002-2-3 Telephone Number: 0741449399 Salary: 37908 kr.
+1961-12-2 Telephone Number: 0718147028 Salary: 59629 kr.
+2024-6-19 Telephone Number: 078392561 Salary: 65284 kr.
+1969-11-3 Telephone Number: 0728124103 Salary: 63132 kr.
+2018-10-12 Telephone Number: 0799892429 Salary: 54411 kr.
+1985-10-6 Telephone Number: 0798420264 Salary: 62577 kr.
+1965-10-21 Telephone Number: 0749141680 Salary: 29443 kr.
+1975-2-26 Telephone Number: 0767841704 Salary: 29449 kr.
+1982-11-12 Telephone Number: 0725798829 Salary: 34613 kr.
+1994-5-20 Telephone Number: 0726005451 Salary: 34439 kr.
+1998-7-14 Telephone Number: 0785780110 Salary: 59865 kr.
+1964-6-29 Telephone Number: 0779768621 Salary: 49877 kr.
+1971-6-4 Telephone Number: 0785510839 Salary: 45973 kr.
+1991-12-12 Telephone Number: 0734814270 Salary: 29633 kr.
+1979-8-28 Telephone Number: 0740967396 Salary: 64474 kr.
+2012-11-28 Telephone Number: 0710103928 Salary: 39859 kr.
+2008-11-13 Telephone Number: 0779794849 Salary: 28580 kr.
+1997-11-15 Telephone Number: 0796767039 Salary: 65361 kr.
+1995-2-9 Telephone Number: 0726256029 Salary: 41645 kr.
+2017-3-20 Telephone Number: 0773040804 Salary: 65468 kr.
+2020-9-31 Telephone Number: 0756665440 Salary: 28811 kr.
+2020-8-29 Telephone Number: 071791048 Salary: 55726 kr.
+1982-2-28 Telephone Number: 078008916 Salary: 65349 kr.
+1969-8-4 Telephone Number: 0795940571 Salary: 28743 kr.
+1979-11-13 Telephone Number: 0738182048 Salary: 38121 kr.
+1964-11-4 Telephone Number: 0714121328 Salary: 51712 kr.
+2018-2-8 Telephone Number: 0754045073 Salary: 41028 kr.
+1995-4-29 Telephone Number: 0788680525 Salary: 59548 kr.
+1987-10-20 Telephone Number: 077449246 Salary: 54350 kr.
+1969-12-30 Telephone Number: 0730749207 Salary: 39924 kr.
+2000-2-5 Telephone Number: 0731512239 Salary: 43528 kr.
+2009-7-13 Telephone Number: 0762679171 Salary: 42424 kr.
+2001-5-21 Telephone Number: 0754493169 Salary: 63027 kr.
+1995-7-29 Telephone Number: 072336614 Salary: 57543 kr.
+1966-12-21 Telephone Number: 0799238941 Salary: 35032 kr.
+2019-8-2 Telephone Number: 0742387500 Salary: 54477 kr.
+1977-3-15 Telephone Number: 0797752958 Salary: 65443 kr.
+2005-3-12 Telephone Number: 072011790 Salary: 62907 kr.
+2016-6-30 Telephone Number: 0726197510 Salary: 28096 kr.
+2007-8-13 Telephone Number: 0769945213 Salary: 58931 kr.
+1963-5-24 Telephone Number: 0781617530 Salary: 49637 kr.
+2012-5-26 Telephone Number: 0743184734 Salary: 26489 kr.
+2005-7-2 Telephone Number: 0771713387 Salary: 65805 kr.
+2005-10-18 Telephone Number: 072235854 Salary: 26360 kr.
+1985-9-27 Telephone Number: 0799754378 Salary: 58041 kr.
+1977-1-27 Telephone Number: 0753868326 Salary: 57795 kr.
+1993-12-16 Telephone Number: 0782685040 Salary: 51543 kr.
+2004-5-20 Telephone Number: 0738735043 Salary: 40998 kr.
+1994-4-21 Telephone Number: 078918499 Salary: 62253 kr.
+1961-3-12 Telephone Number: 0711963727 Salary: 27926 kr.
+2021-11-17 Telephone Number: 0798332662 Salary: 56087 kr.
+2007-6-12 Telephone Number: 0798331129 Salary: 42767 kr.
