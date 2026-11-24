@@ -58,6 +58,9 @@ public class A1 {
 		else if(randomMonth%2 == 0) {
 			randomDay = (int)((Math.random()*30)+1);
 		}
+
+		//Hantera Augusti som har 31 dagar. Bara gör till en switch case.
+
 		//Handles the case where the month has 31 days.
 		else{
 			randomDay = (int)((Math.random()*31)+1);

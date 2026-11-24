@@ -32,7 +32,7 @@ public class A2 {
 		// TASK:
 		// Go line by line and fill up the two arrays
 		// For each iteration, put the data in the correct index for BOTH arrays
-
+		//NumericalArrays numArray = new NumericalArrays();
 		for(int i=0; i<numDataPoints;i++){
 
 			int tempInt=0;
@@ -66,6 +66,7 @@ public class A2 {
 		String swapString = "";
 
 		//Forsätt här! Jag vet fortfarande inte hur man betyder plats på element i en array.
+		/*
 		for(int j=0; j<yearAndPhone.length;j++){
 			//System.out.println(swap+" "+salary[j]);
 			for(int k=1; k<salary.length;k++){
@@ -81,12 +82,29 @@ public class A2 {
 				}
 
 			}
+		}
+		*/
 
+		for(int m=0; m<salary.length;m++){
+			for(int j=0,k=1; j<yearAndPhone.length;j++,k++){
+			//System.out.println(swap+" "+salary[j]);
+			
+			if(k<salary.length){
+				if(salary[j]>salary[k]){
+					swap= salary[j];
+					salary[j] = salary[k];
+					salary[k] = swap;
 
-
-
+					swapString = yearAndPhone[j];
+					yearAndPhone[j] = yearAndPhone[k];
+					yearAndPhone[k] = swapString;
+				}
+			}	
+			
 
 		}
+		}
+		
 
 		// You will need to go through each value in the array (how do we traverse an array?)
 			// For each value you go through, you go again through the array until you find a value

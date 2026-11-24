@@ -1,5 +1,43 @@
 //Tenta problem/uppgift.
 public class NumericalArrays {
+
+
+  public static int []SortIntegerArrayInAscendingOrder(int [] integerArray){
+    int tempValue = 0;
+
+    for(int i=0, k=1; i<integerArray.length;i++,k++){
+      if(k<integerArray.length){
+        if(integerArray[i]>integerArray[k]){
+          tempValue= integerArray[k];
+          integerArray[k]=integerArray[i];
+          integerArray[i] = tempValue;
+
+        }
+      }
+    }
+    return integerArray;
+
+  }
+
+  public static int []SortIntegerArrayInDescendingOrder(int [] integerArray){
+    int tempValue = 0;
+
+    for(int i=0, k=1; i<integerArray.length;i++,k++){
+      if(k<integerArray.length){
+        if(integerArray[i]<integerArray[k]){
+          tempValue= integerArray[k];
+          integerArray[k]=integerArray[i];
+          integerArray[i] = tempValue;
+
+        }
+      }
+    }
+    return integerArray;
+
+  }
+
+
+
   /*
    * Returns the smallest value in the array of doubles it gets as argument.
    */
@@ -128,6 +166,17 @@ public class NumericalArrays {
   public static double median(double[] numarray) {
     double median = 0;
     double swap = 0;
+
+    for(int j=0; j<numarray.length;j++){
+      for(int i=0;i<numarray.length-1;i++){
+        swap=numarray[i];
+        if(numarray[i]>numarray[i+1] && numarray[i]!=numarray[i+1]){
+          numarray[i]=numarray[i+1];
+          numarray[i+1] =swap;
+        }
+     }
+    }
+    
     
     // Your code here
 
@@ -142,6 +191,7 @@ public class NumericalArrays {
     int mode = 0;
     
     // Your code here
+    //Which number is most frequent.
 
     return mode;
   }
@@ -151,12 +201,13 @@ public class NumericalArrays {
    * argument.
    */
   public static double average(double[] numarray) {
+
     
     // Hint: use the sum() method and the size of the array
     // and return the sum of the values of numarray divided
     // by numarray.length
 
-    return -0.0;
+    return sum(numarray)/numarray.length;
   }
 
   /*
@@ -166,8 +217,14 @@ public class NumericalArrays {
    */
   public static int numEqualElements(int[] numarray) {
     int same = 0;
-    
     // Your code here
+    for(int i=0,k=1;i<numarray.length-1 ; i++,k++){
+      if(numarray[i]==numarray[i+1]){
+        same+=1;
+      }
+    }
+    
+    
     
     return same;
   }
@@ -181,6 +238,8 @@ public class NumericalArrays {
     double variance = 0;
     
     // Your code here
+
+
 
     return Math.sqrt(variance);
   }
