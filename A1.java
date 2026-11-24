@@ -8,7 +8,7 @@ public class A1 {
 		int numDataPoints = Integer.parseInt(args[0]);
 		
 		// Print the number of data points
-		System.out.println("Number of data points: "+numDataPoints);
+		System.out.println(numDataPoints);
 		//PrintBirthDate(numDataPoints);
 		// Generate and print all the data points
 		// For each datapoint:
@@ -17,7 +17,7 @@ public class A1 {
 			// On the same line, print the telephone number and a space
 
 			// On the same line, print the random salary in SEK without öre and break the line
-		System.out.println("\nYear, Month, Day; Telephone number; salary");
+		//System.out.println("\nYear, Month, Day; Telephone number; salary");
 		PrintPersonalInformation(numDataPoints);
 		
 
@@ -34,14 +34,14 @@ public class A1 {
 
 	public static void PrintRandomSalary(){//Pröva med -1 och +1. Se vilken skillnad den gör.
 		int randomSalary = (int)((Math.random()*(higher_Percentile_Salary-lower_Percentile_Salary-1))+25700);
-		System.out.println("Salary: "+randomSalary+" kr.");
+		System.out.println(randomSalary);
 	}
 
-
+	//Formatera output texten som Oskar Molina har gjort --> ingen text rena siffror.
 	public static void PrintTelephoneNumber(){
 		String regionSweden = "07";
 		int randomTelephoneNumber = (int)((Math.random()*99999999)+1);
-		String randomTelephoneNumberInString = "Telephone Number: "+regionSweden+""+Integer.toString(randomTelephoneNumber);
+		String randomTelephoneNumberInString =regionSweden+""+Integer.toString(randomTelephoneNumber);
 		System.out.print(randomTelephoneNumberInString+" ");
 	}
 	public static void PrintBirthDate(){
@@ -58,6 +58,9 @@ public class A1 {
 		else if(randomMonth%2 == 0) {
 			randomDay = (int)((Math.random()*30)+1);
 		}
+
+		//Hantera Augusti som har 31 dagar. Bara gör till en switch case.
+
 		//Handles the case where the month has 31 days.
 		else{
 			randomDay = (int)((Math.random()*31)+1);
@@ -65,6 +68,6 @@ public class A1 {
 
 
 
-		System.out.print(randomYear+" "+randomMonth +" "+ randomDay+" ");
+		System.out.print(randomYear+"-"+randomMonth +"-"+ randomDay+" ");
 	}
 }
