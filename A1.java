@@ -108,7 +108,7 @@ public class A1 {
 		}
 
 		if(randomDay<10){
-			return "0"+randomMonth;
+			return "0"+randomDay;
 		}
 
 		return ""+randomDay;
@@ -116,7 +116,7 @@ public class A1 {
 	}
 	public static String GenerateRandomMonth(){
 		int randomMonth = (int)((Math.random()*12)+1);
-		if(randomMonth<10){
+		if(randomMonth<10 ){
 			return "0"+randomMonth;
 		}
 
