@@ -166,6 +166,8 @@ public class NumericalArrays {
   public static double median(double[] numarray) {
     double median = 0;
     double swap = 0;
+    //Spara värdena i en array. Låt oss säga att 30 000 kr förekommer 2 gånger och 50000 en gång.
+    //Använd en två dimenensionell array?
 
     for(int j=0; j<numarray.length;j++){
       for(int i=0;i<numarray.length-1;i++){
@@ -189,6 +191,46 @@ public class NumericalArrays {
    */
   public static int mode(int[] numarray) {
     int mode = 0;
+    int temp = 0;
+    int previousValue=mode;
+    //Spara värdena i en array och gå sedan igenom den en sista gång där man jämför värdet av hur ofta en viss
+    //Lön förekommer.
+    int [] previousValueArray = new int [numarray.length];
+
+    for(int i=0; i<numarray.length;i++){
+      temp = numarray[i];
+      previousValue=mode;
+      for(int j=0;j<numarray.length;j++){
+        if(temp==numarray[j]){
+          previousValue++;
+        }
+      }
+      previousValueArray[i]=previousValue;
+      /*
+      if(previousValue>mode){
+        mode=previousValue;
+        //Använd en array istället.
+      }
+      */
+    }
+    int maxModeValue = Integer.MIN_VALUE;
+    int counter =0;
+    for(int k=0; k<previousValueArray.length;k++){
+      if(previousValueArray[k]>maxModeValue){
+        maxModeValue=previousValueArray[k];
+        counter++;
+      }
+
+      if(counter/previousValueArray.length!=1){
+        System.out.println("There is no birth year that is more frequent than others.");
+        break;
+      }
+      else{
+        mode=maxModeValue;
+      }
+
+    }
+    //mode=temp;
     
     // Your code here
     //Which number is most frequent.
@@ -201,8 +243,6 @@ public class NumericalArrays {
    * argument.
    */
   public static double average(double[] numarray) {
-
-    
     // Hint: use the sum() method and the size of the array
     // and return the sum of the values of numarray divided
     // by numarray.length
@@ -236,6 +276,9 @@ public class NumericalArrays {
   public static double standardDeviation(double[] numarray) {
     double avrg = average(numarray);
     double variance = 0;
+    double sigma = 0;
+    //Sök på github om koden finns där ifall jag inte kan reda ut hur man beräknar standardavikelse.
+    //Sök formeln och tag reda på vad det olika beteckningarna verkligen innebär.
     
     // Your code here
 

@@ -20,6 +20,12 @@ public class A3 {
 
 	public static int nrOfSamePhoneNr(String[] phoneNumber) {
 		int sameNr = 0;
+
+		for(int i=0;i<phoneNumber.length-1;i++){
+			if(phoneNumber[i].equals(phoneNumber[i+1])){
+				sameNr+=1;
+			}
+		}
 		
 		// Go through every phone number in the array
 			// Compare each element to all other elements in the array
@@ -42,8 +48,8 @@ public class A3 {
 		int mode = NumericalArrays.mode(birthYear);
 		int samePhoneNr = NumericalArrays.numEqualElements(phoneNumber);
 
-		System.out.println("The year " + mode + "is the most frequent birth year");
-		System.out.println(samePhoneNr "telephone numbers appear more than once");
+		System.out.println("The year " + mode + " is the most frequent birth year");
+		System.out.println(samePhoneNr +"telephone numbers appear more than once");
 		System.out.println("Maximum salary is " + NumericalArrays.max(salary) + " and minimum salary is " + NumericalArrays.min(salary));
 		System.out.println("The mean salary is " + NumericalArrays.average(salary) + " with a standard deviation of " + NumericalArrays.standardDeviation(salary));
 		System.out.println("Half of the sample has a salary lower than " + NumericalArrays.median(salary));
