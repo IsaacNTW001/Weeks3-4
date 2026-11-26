@@ -179,6 +179,12 @@ public class NumericalArrays {
      }
     }
     
+    if(numarray.length%2==0){
+      median= (numarray[(numarray.length/2)-1]+numarray[(numarray.length/2)+1])/2;
+    }
+    else{
+      median = numarray[(numarray.length/2)];
+    }
     
     // Your code here
 
@@ -221,21 +227,19 @@ public class NumericalArrays {
         counter++;
       }
 
+      /*
       if(counter/previousValueArray.length!=1){
         System.out.println("There is no birth year that is more frequent than others.");
         break;
       }
-      else{
-        mode=maxModeValue;
-      }
-
+      */    
+      mode=maxModeValue;
     }
-    //mode=temp;
-    
+
     // Your code here
     //Which number is most frequent.
 
-    return mode;
+    return mode+1961;
   }
 
   /*
@@ -264,8 +268,6 @@ public class NumericalArrays {
       }
     }
     
-    
-    
     return same;
   }
 
@@ -277,9 +279,12 @@ public class NumericalArrays {
     double avrg = average(numarray);
     double variance = 0;
     double sigma = 0;
-    //Sök på github om koden finns där ifall jag inte kan reda ut hur man beräknar standardavikelse.
-    //Sök formeln och tag reda på vad det olika beteckningarna verkligen innebär.
-    
+
+    for(int i=0;i<numarray.length;i++){
+      sigma+= Math.pow(numarray[i]-avrg,2);
+    }
+
+    variance = sigma/(numarray.length-1);
     // Your code here
 
 

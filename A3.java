@@ -49,7 +49,7 @@ public class A3 {
 		int samePhoneNr = NumericalArrays.numEqualElements(phoneNumber);
 
 		System.out.println("The year " + mode + " is the most frequent birth year");
-		System.out.println(samePhoneNr +"telephone numbers appear more than once");
+		System.out.println(samePhoneNr +" telephone number(s) appear more than once");
 		System.out.println("Maximum salary is " + NumericalArrays.max(salary) + " and minimum salary is " + NumericalArrays.min(salary));
 		System.out.println("The mean salary is " + NumericalArrays.average(salary) + " with a standard deviation of " + NumericalArrays.standardDeviation(salary));
 		System.out.println("Half of the sample has a salary lower than " + NumericalArrays.median(salary));
