@@ -166,24 +166,31 @@ public class NumericalArrays {
   public static double median(double[] numarray) {
     double median = 0;
     double swap = 0;
-    //Spara värdena i en array. Låt oss säga att 30 000 kr förekommer 2 gånger och 50000 en gång.
-    //Använd en två dimenensionell array?
 
-    for(int j=0; j<numarray.length;j++){
-      for(int i=0;i<numarray.length-1;i++){
-        swap=numarray[i];
-        if(numarray[i]>numarray[i+1] && numarray[i]!=numarray[i+1]){
-          numarray[i]=numarray[i+1];
-          numarray[i+1] =swap;
+
+    for(int i=0; i<numarray.length;i++){
+      for(int j=0 ,k=1; j<numarray.length-1;j++,k++){
+        
+        if(j<numarray.length){
+          if(numarray[j]>numarray[k]){
+            swap = numarray[j];
+            numarray[j]=numarray[k];
+            numarray[k]=swap;
+          }
         }
-     }
+        
+
+      }
     }
     
     if(numarray.length%2==0){
-      median= (numarray[(numarray.length/2)-1]+numarray[(numarray.length/2)+1])/2;
+      median= (numarray[(numarray.length/2)-1]+numarray[(numarray.length/2)-2])/2;
+      //System.out.println(numarray[(numarray.length/2)-1]+ "length "+ numarray.length +" " +numarray[(numarray.length/2)-2] );  
+      //System.out.println(median);
     }
     else{
       median = numarray[(numarray.length/2)];
+
     }
     
     // Your code here
