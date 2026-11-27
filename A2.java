@@ -89,20 +89,20 @@ public class A2 {
 			for(int j=0,k=1; j<yearAndPhone.length;j++,k++){
 			//System.out.println(swap+" "+salary[j]);
 			
-			if(k<salary.length){
-				if(salary[j]>salary[k]){
-					swap= salary[j];
-					salary[j] = salary[k];
-					salary[k] = swap;
+				if(k<salary.length){
+					if(salary[j]>salary[k]){
+						swap= salary[j];
+						salary[j] = salary[k];
+						salary[k] = swap;
 
-					swapString = yearAndPhone[j];
-					yearAndPhone[j] = yearAndPhone[k];
-					yearAndPhone[k] = swapString;
-				}
-			}	
+						swapString = yearAndPhone[j];
+						yearAndPhone[j] = yearAndPhone[k];
+						yearAndPhone[k] = swapString;
+					}
+				}	
 			
 
-		}
+			}
 		}
 		
 

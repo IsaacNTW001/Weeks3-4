@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class A4{
 	public static void main(String[] args) {
 		Scanner data = new Scanner(System.in);
@@ -31,6 +32,10 @@ public class A4{
 
 	public static int[][] getBirthYearFreq(int[] birthYear){
 		int[][] freq = new int[birthYear.length][2];
+
+		for(int i=0;i<birthYear.length;i++){
+			
+		}
 		
 		// Your code here
 				

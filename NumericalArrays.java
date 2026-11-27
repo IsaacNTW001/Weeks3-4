@@ -167,16 +167,31 @@ public class NumericalArrays {
     double median = 0;
     double swap = 0;
 
-    for(int j=0; j<numarray.length;j++){
-      for(int i=0;i<numarray.length-1;i++){
-        swap=numarray[i];
-        if(numarray[i]>numarray[i+1] && numarray[i]!=numarray[i+1]){
-          numarray[i]=numarray[i+1];
-          numarray[i+1] =swap;
+
+    for(int i=0; i<numarray.length;i++){
+      for(int j=0 ,k=1; j<numarray.length-1;j++,k++){
+        
+        if(j<numarray.length){
+          if(numarray[j]>numarray[k]){
+            swap = numarray[j];
+            numarray[j]=numarray[k];
+            numarray[k]=swap;
+          }
         }
-     }
+        
+
+      }
     }
     
+    if(numarray.length%2==0){
+      median= (numarray[(numarray.length/2)-1]+numarray[(numarray.length/2)-2])/2;
+      //System.out.println(numarray[(numarray.length/2)-1]+ "length "+ numarray.length +" " +numarray[(numarray.length/2)-2] );  
+      //System.out.println(median);
+    }
+    else{
+      median = numarray[(numarray.length/2)];
+
+    }
     
     // Your code here
 
@@ -189,11 +204,49 @@ public class NumericalArrays {
    */
   public static int mode(int[] numarray) {
     int mode = 0;
-    
+    int temp = 0;
+    int previousValue=mode;
+    //Spara värdena i en array och gå sedan igenom den en sista gång där man jämför värdet av hur ofta en viss
+    //Lön förekommer.
+    int [] previousValueArray = new int [numarray.length];
+
+    for(int i=0; i<numarray.length;i++){
+      temp = numarray[i];
+      previousValue=mode;
+      for(int j=0;j<numarray.length;j++){
+        if(temp==numarray[j]){
+          previousValue++;
+        }
+      }
+      previousValueArray[i]=previousValue;
+      /*
+      if(previousValue>mode){
+        mode=previousValue;
+        //Använd en array istället.
+      }
+      */
+    }
+    int maxModeValue = Integer.MIN_VALUE;
+    int counter =0;
+    for(int k=0; k<previousValueArray.length;k++){
+      if(previousValueArray[k]>maxModeValue){
+        maxModeValue=previousValueArray[k];
+        counter++;
+      }
+
+      /*
+      if(counter/previousValueArray.length!=1){
+        System.out.println("There is no birth year that is more frequent than others.");
+        break;
+      }
+      */    
+      mode=maxModeValue;
+    }
+
     // Your code here
     //Which number is most frequent.
 
-    return mode;
+    return mode+1961;
   }
 
   /*
@@ -201,8 +254,6 @@ public class NumericalArrays {
    * argument.
    */
   public static double average(double[] numarray) {
-
-    
     // Hint: use the sum() method and the size of the array
     // and return the sum of the values of numarray divided
     // by numarray.length
@@ -224,8 +275,6 @@ public class NumericalArrays {
       }
     }
     
-    
-    
     return same;
   }
 
@@ -236,7 +285,13 @@ public class NumericalArrays {
   public static double standardDeviation(double[] numarray) {
     double avrg = average(numarray);
     double variance = 0;
-    
+    double sigma = 0;
+
+    for(int i=0;i<numarray.length;i++){
+      sigma+= Math.pow(numarray[i]-avrg,2);
+    }
+
+    variance = sigma/(numarray.length-1);
     // Your code here
 
 

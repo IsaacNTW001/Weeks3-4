@@ -40,7 +40,7 @@ public class A1 {
 	//Formatera output texten som Oskar Molina har gjort --> ingen text rena siffror.
 	public static void PrintTelephoneNumber(){
 		String regionSweden = "07";
-		int randomTelephoneNumber = (int)((Math.random()*99999999)+1);
+		int randomTelephoneNumber = (int)((Math.random()*(99999999-10000000)+10000000));
 		String randomTelephoneNumberInString =regionSweden+""+Integer.toString(randomTelephoneNumber);
 		System.out.print(randomTelephoneNumberInString+" ");
 	}
